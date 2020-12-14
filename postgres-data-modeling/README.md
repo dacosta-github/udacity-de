@@ -73,7 +73,7 @@ Principal advantages of using this Star Schema:
 
 * Denormalized tables
 * Easy for Sparkify users to understand
-* Simplified queries
+* Query performance
 * Fast aggregation
 
 The above schema allows in a very quick and easy way to obtain aggregations to answer different questions such as: what songs are most heard? what is the duration? which users listen to these songs? which are the artists? etc...).
