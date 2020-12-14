@@ -403,9 +403,9 @@ docker network prune  # select y
 
 * Songs data set on [million song dataset](http://millionsongdataset.com).
 
-* Udacity [Rubric](https://review.udacity.com/#!/rubrics/2500/view).
+* Udacity [rubric](https://review.udacity.com/#!/rubrics/2500/view).
 
-* Running Cassandra and Postgres in Docker [Rubric](https://www.cross-validated.com/Running-Cassandra-and-Postgres-in-Docker).
+* [Running Cassandra and Postgres in Docker](https://www.cross-validated.com/Running-Cassandra-and-Postgres-in-Docker).
 
 <br/>
 
