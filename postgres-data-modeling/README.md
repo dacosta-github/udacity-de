@@ -357,10 +357,9 @@ http://localhost:5555/browser/     # Email: student@pgadmin.org | Password: stud
 
 <br/>
 
-**Cleaning virtual environment:**
+**Cleaning virtual environment**
 
 After all validations you can delete the created environments (python and docker). To do this, use the following commands:
-
 
 On the same terminal as the python env, execute:
 
