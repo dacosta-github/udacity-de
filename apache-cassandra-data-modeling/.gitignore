@@ -1,0 +1,24 @@
+# Jupyter notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Volume backup
+postgres-data/
+cassandra-data/
+
+# Virtual environment
+env/
+venv/
+python-venv/
+
+# Compiled
+__pycache__/
+*.py[cod]
+
+# Ignore Mac DS_Store files
+.DS_Store
+*.DS_Store
+**/.DS_Store
+
+# Data extracts
+!dataset/data.7z
