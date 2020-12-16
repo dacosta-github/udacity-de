@@ -12,7 +12,7 @@ In this project, I’ll model user activity data for a music streaming app calle
 
 **Course Project 2**  - [Data Modeling with Apache Cassandra](https://github.com/dacosta-github/udacity-de/tree/main/apache-cassandra-data-modeling)
 
-In these projects, I’ll model user activity data for a music streaming app called Sparkify. I'll create a database and ETL pipeline, in both Postgres and Apache Cassandra, designed to optimize queries for understanding what songs users are listening to. For PostgreSQL, I will also define Fact and Dimension tables and insert data into your new tables. For Apache Cassandra, I'll model data so I can run specific queries provided by the analytics team at Sparkify.
+In these projects, I’ll model user activity data for a music streaming app called Sparkify. I'll create a database and ETL pipeline, in both Postgres and Apache Cassandra, designed to optimize queries for understanding what songs users are listening to. For PostgreSQL, I will also define Fact and Dimension tables and insert data into new tables. For Apache Cassandra, I'll model data so I can run specific queries provided by the analytics team at Sparkify.
 
 
 <br>
