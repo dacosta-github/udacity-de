@@ -329,18 +329,18 @@ ctrl+c  # to close Docker Containers, use Ctrl+C in the terminal
 
 ```bash
 docker ps
-docker kill
+docker kill # include here container ID
 docker system prune -a  # select y
 ```
 
 ```bash
 docker volume ls
-#docker volume rm apache-cassandra-data-modeling_apache-cassandra-data
+# docker volume rm apache-cassandra-data-modeling_apache-cassandra-data
 ```
 
 ```bash
 docker network ls
-#docker network rm apache-cassandra-compose-network # apache-cassandra-compose-network
+# docker network rm apache-cassandra-compose-network # apache-cassandra-compose-network
 docker network prune  # select y
 ```
 
