@@ -1,7 +1,6 @@
-version: '3'
+version: '2'
 
 volumes:
-  postgres-data:
   cassandra-data:
 
 networks: 
@@ -9,76 +8,31 @@ networks:
     driver: bridge
 
 services:
-  postgres:
-    image: postgres
-    container_name: "postgres"
-    #hostname: postgres
-    ports:
-      - "15432:5432"
-    environment:
-      POSTGRES_USER: student
-      POSTGRES_PASSWORD: student
-      POSTGRES_DB: postgres_db
-    volumes:
-      - ./postgres-data/var/lib/postgresql/data
-    restart: unless-stopped
-    networks:
-      - app-tier-compose-network
-
-  pgadmin:
-    image: dpage/pgadmin4
-    container_name: "pgadmin4"
-    depends_on:
-      - postgres
-    ports:
-      - "5555:80"
-    environment:
-      PGADMIN_DEFAULT_EMAIL: student@pgadmin.org
-      PGADMIN_DEFAULT_PASSWORD: student
-    #environment: "POSTGRES_HOST_AUTH_METHOD=trust"
-    volumes:
-      - ./postgres-data/var/lib/pgadmin4/data
-    restart: unless-stopped
-    networks:
-      - app-tier-compose-network
-
   cassandra:
     image: 'cassandra:latest'
     container_name: "cassandra"
     ports:
-      - "6000:9042"
-    expose:
-      - "6000"
+      - "9042:9042"
     volumes:
       - ./cassandra-data/var/lib/cassandra/data
-    restart: unless-stopped
+    #restart: unless-stopped
     networks:
       - app-tier-compose-network
 
-# One DSE node
-  dse:
-    image: luketillman/datastax-enterprise:5.1.0
-    container_name: dse
-    # Tell DSE to start a graph node
-    command: [ -g ]
-    cap_add:
-    - IPC_LOCK
-    ulimits:
-      memlock: -1
-    # Use the externally created network (see note above)
-    networks:
-    - app-tier-compose-network
-    # Specify the container name explicitly to avoid getting underscores (see note above)
-    
-
-  # One instance of DataStax Studio
-  studio:
-    image: luketillman/datastax-studio:2.0.0
-    ports:
-    # The Web UI exposed to our host
-    - "9091:9091"
+  cassandra-web:
+    image: 'delermando/docker-cassandra-web:v0.4.0'
+    container_name: "cassandra-web"
     depends_on:
-    - dse
-    # Use the externally created network (see note above)
+      - cassandra
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./cassandra-data/var/lib/cassandra/data
+    environment:
+      - CASSANDRA_HOST_IP=127.0.0.1
+      - CASSANDRA_PORT=9042
+      - CASSANDRA_USER=cassandra
+      - CASSANDRA_PASSWORD=cassandra
+    #restart: always
     networks:
-    - app-tier-compose-network
+      - app-tier-compose-network
