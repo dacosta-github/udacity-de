@@ -13,7 +13,6 @@ In this project, I will apply what I learned in data modelling with Apache Cassa
 
 
 ## Data
-
 The data sources (available locally), shared by Sparkify, are the following:
 
 ### Events Dataset
@@ -29,9 +28,16 @@ event_data/2018-11-09-events.csv
 ## Data Model
 Based on the informational needs of the business and the defined requests, the data model is very simple, it's composed by three tables to answer each of the questions that were presented.
 
-* songs_in_user_history	
-* user_in_song_history	
-* song_in_session_history
+* **songs_in_user_history**: Data structure to answer question 1. 
+    * Table partitioned as follows: `PRIMARY KEY(session_id, item_in_session)` - partition key (session_id, item_in_session) - partition will belong to the same session_id and sorted by item_in_session.
+
+* **user_in_song_history**: Data structure to answer question 2. 
+    * Table partitioned as follows: `PRIMARY KEY((user_id), session_id, item_in_session)` - Composite Key - partition key (user_id) - partition will belong to the same user_id. The clustering columns (session_id and item_in_session)- sorted by session_id and then by item_in_session. In this case user_id is the partition key and session_id & item_in_session are a clustering key.
+	
+* **song_in_session_history**: Data structure to answer question 3. 
+    * Table partitioned as follows: `PRIMARY KEY(song, user_name)` - partition key (song, user_name) - partition will belong to the same song and sorted by user_name.
+
+With the primary keys (partitions) the data are properly partitioned and sorted in the final tables, so that access to the data is also faster.
 
 Based on this, an ETL process was defined to collect the events data from the several files, treat the data as one, structure the data and store it in the database that will be in an apache cassandra cluster.
 
@@ -148,7 +154,7 @@ _check containers_
 docker ps # run in new terminal
 ```
 
-_access Cassandra Web Interface using:_
+_access Cassandra Web Interface using_
 ```html
 http://localhost:3000/
 ```
@@ -255,7 +261,7 @@ http://localhost:3000     # Don't need credentials to open
 
 ## Answers to the Questions
 
-To explore the results you could use the cassandra web interface to run the analysis queries:
+To explore the results you could use the cassandra web user interface to run the analysis queries:
 
 ### Query 1
 
@@ -329,7 +335,7 @@ docker system prune -a  # select y
 
 ```bash
 docker volume ls
-#docker volume rm apache-cassandra-data-modeling_apache-cassandra-data # apache-cassandra
+#docker volume rm apache-cassandra-data-modeling_apache-cassandra-data
 ```
 
 ```bash
@@ -340,11 +346,13 @@ docker network prune  # select y
 
 ## Acknowledgements
 
-* Cassandra web ui on [erdplus](https://github.com/fmarslan/cassandra-web-ui).
+* [Cassandra web ui on github](https://github.com/fmarslan/cassandra-web-ui).
 
-* Udacity [rubric](https://review.udacity.com/#!/rubrics/2475/view).
+* [Udacity rubric](https://review.udacity.com/#!/rubrics/2475/view).
 
 * [Running Cassandra and Postgres in Docker](https://www.cross-validated.com/Running-Cassandra-and-Postgres-in-Docker).
+
+* [How to run cassandra including web interface locally in two simple steps](https://medium.com/@saurabhg.engineer/how-to-run-cassandra-including-web-interface-locally-in-two-simple-steps-6c9449defb97)
 
 * Songs data set on [million song dataset](http://millionsongdataset.com).
 
