@@ -38,6 +38,13 @@ def main():
     session.set_keyspace('music_app_history')
 
     # get files
+        # File
+    file = 'event_datafile_new.csv'
+    event_datafile_path = dirname(dirname(os.getcwd())) + '/data/event_data/' + file
+
+    # Remove a file
+    os.remove(event_datafile_path) 
+
     # get the current folder and subfolder event data
     filepath = dirname(dirname(os.getcwd())) + '/data/event_data'
 
@@ -46,7 +53,7 @@ def main():
 
     print("Getting records ...")
     full_data_rows_list = get_records(file_path_list)
-    
+
     print("Creating output file ...")
     output_row_count = create_output_file(full_data_rows_list)
 
@@ -58,8 +65,6 @@ def main():
 
     # insert data into dataframe
     print("Inserting data ...")
-    file = 'event_datafile_new.csv'
-    event_datafile_path = dirname(dirname(os.getcwd())) + '/data/event_data/' + file
     df = pd.read_csv(event_datafile_path, encoding='utf8')
 
     # create new column
@@ -67,19 +72,19 @@ def main():
     df['user_name'] = df['firstName'] + ' ' + df['lastName']
 
     # insert data
-    print("load data to apache cassandra - csql_insert_table_1 ...")
+    print("Question 1 - Load data to apache cassandra - csql_insert_table_1 ...")
     load_data(session, csql_insert_table_1, df, ['sessionId', 'itemInSession', 'artist', 'song', 'length'])
 
-    print("load data to apache cassandra - csql_insert_table_2 ...")
+    print("Question 2 - Load data to apache cassandra - csql_insert_table_2 ...")
     load_data(session, csql_insert_table_2, df, ['userId', 'sessionId', 'itemInSession', 'artist', 'song', 'user_name'])
 
-    print("load data to apache cassandra - csql_insert_table_3 ...")
-    load_data(session, csql_insert_table_3, df, ['song', 'user_name'])
+    print("Question 3 - Load data to apache cassandra - csql_insert_table_3 ...")
+    load_data(session, csql_insert_table_3, df, ['song', 'userId', 'user_name'])
 
     # Remove a file
     os.remove(event_datafile_path)    
 
-    print('Data loaded!')
+    print('The data has been successfully loaded!!')
 
 
 if __name__ == '__main__':

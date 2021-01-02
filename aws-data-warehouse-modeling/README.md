@@ -29,40 +29,13 @@ event_data/2018-11-09-events.csv
 Based on the informational needs of the business and the defined requests, the data model is very simple, it's composed by three tables to answer each of the questions that were presented.
 
 * **songs_in_user_history**: Data structure to answer question 1. 
-    
-    * Table structure as: 
-        * Column 1 = session_id
-        * Column 2 = item_in_session
-        * Column 3 = artist
-        * Column 4 = song
-        * Column 5 = length
-        * Primary key = (session_id, item_in_session)
-
     * Table partitioned as follows: `PRIMARY KEY(session_id, item_in_session)` - partition key (session_id, item_in_session) - partition will belong to the same session_id and sorted by item_in_session.
 
 * **user_in_song_history**: Data structure to answer question 2. 
-
-    * Table structure as: 
-        * Column 1 = user_id
-        * Column 2 = session_id
-        * Column 3 = item_in_session
-        * Column 4 = artist
-        * Column 5 = song
-        * Column 6 = user_name
-        * Primary key = (user_id, session_id) with clustering column item_in_session
-
-    * Table partitioned as follows: `PRIMARY KEY((user_id, session_id), item_in_session)` - Composite Key - partition key (user_id, session_id) - partition will belong to the same user_id and session_id. The clustering columns (item_in_session)- sorted by item_in_session. In this case user_id and session_id are the partition key and item_in_session is a clustering key. We should use both user_id and session_id as partition keys so sessions from the same user are stored together. 
-
+    * Table partitioned as follows: `PRIMARY KEY((user_id), session_id, item_in_session)` - Composite Key - partition key (user_id) - partition will belong to the same user_id. The clustering columns (session_id and item_in_session)- sorted by session_id and then by item_in_session. In this case user_id is the partition key and session_id & item_in_session are a clustering key.
+	
 * **song_in_session_history**: Data structure to answer question 3. 
-
-     * Table structure as: 
-        * Column 1 = song
-        * Column 2 = user_id
-        * Column 3 = user_name
-        * Primary key = (song, user_id)
-
-    * Table partitioned as follows: `PRIMARY KEY(song, user_id)` - partition key (song, user_id).
-
+    * Table partitioned as follows: `PRIMARY KEY(song, user_name)` - partition key (song, user_name) - partition will belong to the same song and sorted by user_name.
 
 With the primary keys (partitions) the data are properly partitioned and sorted in the final tables, so that access to the data is also faster.
 
@@ -246,10 +219,10 @@ Written None rows to the output file.
 Trucating tables...
 Inserting data ...
 Creating a new column user name ...
-Question 1 - Load data to apache cassandra - csql_insert_table_1 ...
-Question 2 - Load data to apache cassandra - csql_insert_table_2 ...
-Question 3 - Load data to apache cassandra - csql_insert_table_3 ...
-The data has been successfully loaded!!
+load data to apache cassandra - csql_insert_table_1 ...
+load data to apache cassandra - csql_insert_table_2 ...
+load data to apache cassandra - csql_insert_table_3 ...
+Data loaded!
 
 ```
 
@@ -288,10 +261,7 @@ http://localhost:3000     # Don't need credentials to open
 
 ## Answers to the Questions
 
-To explore the results you could use the cassandra web user interface to run the analysis queries.
-
-Note: _The specific field names are used to retrieve data. This is also a very important point when we are accessing a very huge database. Doing SELECT * can be very costly in terms of reading._
-
+To explore the results you could use the cassandra web user interface to run the analysis queries:
 
 ### Query 1
 
@@ -324,7 +294,7 @@ WHERE user_id = 10 AND session_id = 182
 Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'
 
 ```sql
-SELECT song, user_id, user_name 
+SELECT song, user_name 
 FROM music_app_history.user_in_song_history 
 WHERE song = 'All Hands Against His Own' 
 ```

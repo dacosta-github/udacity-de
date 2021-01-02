@@ -15,10 +15,10 @@ csql_create_table_1 = """CREATE TABLE IF NOT EXISTS song_in_session_history ( se
            PRIMARY KEY(session_id, item_in_session) )"""
 
 csql_create_table_2 = """CREATE TABLE IF NOT EXISTS songs_in_user_history ( user_id INT, session_id INT, item_in_session INT, artist TEXT, song TEXT, user_name TEXT, 
-           PRIMARY KEY((user_id), session_id, item_in_session) )"""
+           PRIMARY KEY((user_id, session_id), item_in_session) )"""
 
-csql_create_table_3 = """CREATE TABLE IF NOT EXISTS user_in_song_history ( song TEXT, user_name TEXT, 
-           PRIMARY KEY(song, user_name) )"""
+csql_create_table_3 = """CREATE TABLE IF NOT EXISTS user_in_song_history ( song TEXT, user_id INT, user_name TEXT, 
+           PRIMARY KEY(song, user_id) )"""
 
 
 ## insert into: copy from dataframe to cassandra
@@ -33,8 +33,8 @@ csql_insert_table_2 = """
 """
 
 csql_insert_table_3 = """
-    INSERT INTO user_in_song_history ( song, user_name )
-    VALUES(%s, %s)
+    INSERT INTO user_in_song_history ( song, user_id, user_name )
+    VALUES(%s, %s, %s)
 """
 
 ## final to create all tables on keysapce in cassandra

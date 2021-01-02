@@ -1,0 +1,38 @@
+version: '2'
+
+volumes:
+  cassandra-data:
+
+networks: 
+  app-tier-compose-network:
+    driver: bridge
+
+services:
+  cassandra:
+    image: 'cassandra:latest'
+    container_name: "cassandra"
+    ports:
+      - "9042:9042"
+    volumes:
+      - ./cassandra-data/var/lib/cassandra/data
+    #restart: unless-stopped
+    networks:
+      - app-tier-compose-network
+
+  cassandra-web:
+    image: 'delermando/docker-cassandra-web:v0.4.0'
+    container_name: "cassandra-web"
+    depends_on:
+      - cassandra
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./cassandra-data/var/lib/cassandra/data
+    environment:
+      - CASSANDRA_HOST_IP=127.0.0.1
+      - CASSANDRA_PORT=9042
+      - CASSANDRA_USER=cassandra
+      - CASSANDRA_PASSWORD=cassandra
+    #restart: always
+    networks:
+      - app-tier-compose-network
