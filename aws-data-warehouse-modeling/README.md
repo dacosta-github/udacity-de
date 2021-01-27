@@ -157,7 +157,7 @@ The following folders and files are contained in the project repository:
 │       │__ dwh.cfg                    # Configuration file, credentials for AWS account
 │       │__ etl.py                     # Python code to ETL pipeline
 │       └── sql_queries.py             # Python code to SQL Statments
-└──.
+└──
 ```
 
 <br/>
@@ -260,9 +260,7 @@ get ARN
 
 **Edit `dwh.cfg` file**
 
-To run the process you must first edit the `dwh.cfg` file with your settings
-
-This file contains the configuration variables used in the scripts to create and configure AWS resources.
+To run the process you must first edit the `aws-data-warehouse-modeling/src/scripts/dwh.cfg` file with your settings. This file contains the configuration variables used in the scripts to create and configure AWS resources.
 
 Below are the variables that the user needs to configure before running the scripts.
 
@@ -307,7 +305,7 @@ Confirm that the dwh.cfg file has been successfully updated.
 
 ```bash
 python3 -m create_tables # create database schema DDL
-python3 -m etl.          # load one file per commit ETL
+python3 -m etl         # load one file per commit ETL
 ```
 
 _Log obtained after execution:_
