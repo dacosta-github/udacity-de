@@ -14,6 +14,9 @@ In this project, I’ll model user activity data for a music streaming app calle
 
 In these projects, I’ll model user activity data for a music streaming app called Sparkify. I'll create a database and ETL pipeline, in both Postgres and Apache Cassandra, designed to optimize queries for understanding what songs users are listening to. For PostgreSQL, I will also define Fact and Dimension tables and insert data into new tables. For Apache Cassandra, I'll model data so I can run specific queries provided by the analytics team at Sparkify.
 
+**Course Project 3**  - [Data Modeling with AWS Redshift](https://github.com/dacosta-github/udacity-de/tree/main/aws-data-warehouse-modeling)
+
+In this project, I applied what I've learned on data warehouses and AWS to build an ETL pipeline for a database hosted on Redshift. To complete the project, I need to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables. To manage the AWS and manage the clusters and access, I used the AWS SDK for Python.
 
 <br>
 

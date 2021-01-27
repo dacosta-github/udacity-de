@@ -11,12 +11,11 @@ As their data engineer, I tasked with building an ETL pipeline that extracts the
 In this project, I applied what I've learned on data warehouses and AWS to build an ETL pipeline for a database hosted on Redshift. To complete the project, I need to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables.
 
 ## Data
-I'm working with two datasets that reside in S3. Here are the S3 links for each:
+I worked with two datasets that reside in S3. Here are the S3 links for each:
 
 * Song data: ```s3://udacity-dend/song_data```
 * Log data: ```s3://udacity-dend/log_data```
 * Log data json path: ```s3://udacity-dend/log_json_path.json```
-
 
 The data sources (available in S3), shared by Sparkify, are the following:
 
@@ -52,9 +51,9 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 <br/>
 
 ## Schema for Song Play Analysis
-Using the song and log datasets, I created a star schema data warehouse optimized for queries on song play analysis. Start design means that it has one **Fact** table having business data, and supporting **Dimension** tables. Database schema is the following:
+Using the song and log datasets, I created a **star schema** data warehouse optimized for queries on song play analysis. It has one **Fact** table having business data, and supporting **Dimension** tables. Database schema is the following:
 
-* Sparkify analytics database (`sparkifydb`)
+* Sparkify analytics database named `sparkifydb`
 
 ![Schema](./resources/star-schema-design.png)
 
@@ -106,9 +105,9 @@ The above schema allows in a very quick and easy way to obtain aggregations to a
 
 The ETL process is composed of three phases:
 
-`1. Staging phase` - here the data are stored in staging tables, before being loaded into the final model. This phase allows the various files to be uploaded into an structure so that they can be worked on in the future.
+`1. Staging phase` - here the data are stored in staging tables, before being loaded into the final model. This phase allows the several files to be uploaded into an structure so that they can be worked on in the future.
 
-Have two staging tables which copy the JSON file inside the S3 buckets:
+Have two staging tables which copy the JSON file inside the AWS S3 buckets:
 
 * `staging_events` - event data about what users have done.
     
@@ -190,7 +189,7 @@ The following tools and packages are necessary to run the scripts locally:
 * AWS SDK for Python
 * Docker
 * Docker-Compose
-    * _PostgresSQL_
+    * _Postgres_
 
 <br/>
 
