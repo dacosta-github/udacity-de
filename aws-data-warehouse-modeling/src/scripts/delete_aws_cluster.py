@@ -1,4 +1,10 @@
-import boto3
+i"""
+    This module provides all methods to interact with AWS Account.
+    It contains the cluster and session deletion methods, iam roles, vpc, ec2, s3 and redshift.
+    Note: Based on the research that was done. See in the acknowledgements the sources.
+"""
+
+mport boto3
 import time
 import configparser
 from create_aws_cluster import config_file

@@ -1,6 +1,7 @@
 """
     This module provides all methods to interact with AWS Account.
     It contains the cluster and session creation methods, iam roles, vpc, ec2, s3 and redshift.
+    Note: Based on the research that was done. See in the acknowledgements the sources.
 """
 
 import boto3
