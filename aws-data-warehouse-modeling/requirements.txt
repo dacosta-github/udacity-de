@@ -3,4 +3,5 @@ pandas
 numpy
 jupyter
 ipython-sql
+keyring
 boto3
