@@ -73,11 +73,15 @@ staging_events_table_create= ("""
                 status        INTEGER                 NULL,
                 ts            BIGINT                  NULL,
                 user_agent    VARCHAR                 NULL,
-                user_id       INTEGER                 NULL);
-""")
+                user_id       INTEGER                 NULL,
+                PRIMARY KEY (event_id)
+            )
+            DISTSTYLE EVEN;
+    """)
 
 staging_songs_table_create = ("""
     CREATE TABLE IF NOT EXISTS staging_songs (
+                staging_song_id     BIGINT IDENTITY(0,1),
                 artist_id           VARCHAR         NOT NULL,
                 artist_latitude     FLOAT           NULL,
                 artist_longitude    FLOAT           NULL,
@@ -87,64 +91,77 @@ staging_songs_table_create = ("""
                 title               VARCHAR         NULL,
                 year                INTEGER         NULL,
                 num_songs           INTEGER         NULL,
-                duration            FLOAT           NULL);
-""")
+                duration            FLOAT           NULL,
+                PRIMARY KEY (staging_song_id)
+            )
+            DISTSTYLE EVEN;
+    """)
 
 # CREATE FINAL TABLES
 songplay_table_create = ("""
     CREATE TABLE IF NOT EXISTS songplays (
-                songplay_id INTEGER IDENTITY(0,1)   NOT NULL SORTKEY,
+                songplay_id INTEGER IDENTITY(0,1)   NOT NULL,
                 start_time  TIMESTAMP               NOT NULL,
-                user_id     VARCHAR(50)             NOT NULL DISTKEY,
+                user_id     VARCHAR(50)             NOT NULL,
                 level       VARCHAR(10)             NOT NULL,
                 song_id     VARCHAR(40)             NOT NULL,
                 artist_id   VARCHAR(50)             NOT NULL,
                 session_id  VARCHAR(50)             NOT NULL,
                 location    VARCHAR(100)            NULL,
-                user_agent  VARCHAR(255)            NULL
-    );
+                user_agent  VARCHAR(255)            NULL,
+        PRIMARY KEY (start_time, user_id)
+    ) DISTKEY (user_id)
+      SORTKEY (user_id, start_time);
 """)
 
 user_table_create = ("""
     CREATE TABLE IF NOT EXISTS users (
-                user_id     INTEGER                 NOT NULL SORTKEY,
+                user_id     INTEGER                 NOT NULL,
                 first_name  VARCHAR(50)             NULL,
                 last_name   VARCHAR(80)             NULL,
                 gender      VARCHAR(10)             NULL,
-                level       VARCHAR(10)             NULL
-    ) DISTSTYLE ALL;
+                level       VARCHAR(10)             NULL,
+                PRIMARY KEY (user_id)
+    ) DISTSTYLE ALL
+      SORTKEY (user_id);
 """)
 
 song_table_create = ("""
     CREATE TABLE IF NOT EXISTS songs (
-                song_id     VARCHAR(50)             NOT NULL SORTKEY,
+                song_id     VARCHAR(50)             NOT NULL,
                 title       VARCHAR(500)            NOT NULL,
                 artist_id   VARCHAR(50)             NOT NULL,
                 year        INTEGER                 NOT NULL,
-                duration    DECIMAL(9)              NOT NULL
-    );
+                duration    DECIMAL(9)              NOT NULL,
+                PRIMARY KEY (artist_id)
+    ) DISTSTYLE ALL
+      SORTKEY (artist_id, year);
 """)
 
 artist_table_create = ("""
     CREATE TABLE IF NOT EXISTS artists (
-                artist_id   VARCHAR(50)             NOT NULL SORTKEY,
+                artist_id   VARCHAR(50)             NOT NULL,
                 name        VARCHAR(500)            NULL,
                 location    VARCHAR(500)            NULL,
                 latitude    DECIMAL(9)              NULL,
-                longitude   DECIMAL(9)              NULL
-    ) DISTSTYLE ALL;
+                longitude   DECIMAL(9)              NULL,
+                PRIMARY KEY (artist_id)
+    ) DISTSTYLE ALL
+      SORTKEY (artist_id);
 """)
 
 time_table_create = ("""
     CREATE TABLE IF NOT EXISTS time (
-                start_time  TIMESTAMP               NOT NULL SORTKEY,
+                start_time  TIMESTAMP               NOT NULL,
                 hour        SMALLINT                NULL,
                 day         SMALLINT                NULL,
                 week        SMALLINT                NULL,
                 month       SMALLINT                NULL,
                 year        SMALLINT                NULL,
-                weekday     SMALLINT                NULL
-    ) DISTSTYLE ALL;
+                weekday     SMALLINT                NULL,
+                PRIMARY KEY (start_time)
+    ) DISTSTYLE ALL
+      SORTKEY (start_time);
 """)
 
 #### INSERT SCRIPTS
