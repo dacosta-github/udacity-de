@@ -1,0 +1,9 @@
+psycopg2-binary
+pandas
+numpy
+jupyter
+ipython-sql
+keyring
+boto
+boto3
+pyspark

@@ -9,6 +9,8 @@ postgres-data/
 env/
 venv/
 python-venv/
+<>
+.<>
 
 # Compiled
 __pycache__/
