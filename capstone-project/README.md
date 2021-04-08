@@ -870,6 +870,38 @@ Tableau Dataset:
 
 <br/>
 
+Tableau Query:
+
+```sql
+select f.name
+     , f.public_response
+     , received_date
+     , sent_date
+     , number_issues
+     , is_timely_response
+     , consumer_narrative
+     , consumer_consent_provider
+     , submitted_via
+     , state
+     , zip_code
+     , county
+     , city
+     , usps
+     , product
+     , sub_product
+     , issue
+     , sub_issue
+     , tag_desc
+from fact_complaints as a
+         join dim_companies as f on f.company_pk = a.company_pk
+         join dim_complaints as b on b.complaint_pk = a.complaint_pk
+         join dim_geographies as g on g.geography_pk = a.geography_pk
+         join dim_products as p on p.product_pk = a.product_pk
+         join dim_issues as i on i.issue_pk = a.issue_pk
+         join dim_tags as t on t.tag_pk = a.tag_pk
+```
+<br/>
+
 **11.3. Web App for Text Classification using Machine Learning**
 
 I prepared an web app, which will allow iteract with the models. This app was developed with resource the `Streamlit`, in python.
