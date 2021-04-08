@@ -13,11 +13,42 @@ python-venv/
 # Compiled
 __pycache__/
 *.py[cod]
+.idea
 
 # Ignore Mac DS_Store files
 .DS_Store
 *.DS_Store
 **/.DS_Store
 
+# Airflow configs
+#airflow/*.cfg
+*.pid
+
+# Airflow db and config
+airflow/airflow.db
+*webserver_config.py
+
 # Data extracts
 !dataset/data.7z
+.airflow
+!airflow
+/airflow-data/
+/airflow-scheduler_data/
+/airflow-scheduler-data/
+/airflow-worker-data/
+/redis_data/
+/postgresql_data/
+*log/
+*logs/
+*scheduler/
+/notebooks/data/
+/notebooks/temp/
+./data/postgresql_data
+*/data/redis_data/
+*airflow_scheduler_data
+*airflow_worker_data
+
+*postgresql_data/
+*redis_data/
+*airflow_scheduler_data/
+*airflow_worker_data/

@@ -1,0 +1,501 @@
+zip,city,county,pop
+77449,Katy,Harris,128294
+77494,Katy,Fort Bend,118291
+11368,Corona,Queens,112088
+79936,El Paso,El Paso,111620
+90011,Los Angeles,Los Angeles,111165
+60629,Chicago,Cook,110029
+75034,Frisco,Collin,108525
+11385,Ridgewood,Queens,107796
+77084,Houston,Harris,107673
+91331,Pacoima,Los Angeles,105458
+90650,Norwalk,Los Angeles,105304
+75070,Mc Kinney,Collin,104415
+11211,Brooklyn,Kings,103123
+8701,Lakewood,Ocean,102466
+90201,Bell,Los Angeles,101965
+11208,Brooklyn,Kings,101313
+10467,Bronx,Bronx,101255
+11236,Brooklyn,Kings,100844
+11226,Brooklyn,Kings,99558
+90044,Los Angeles,Los Angeles,99443
+92335,Fontana,San Bernardino,99306
+92336,Fontana,San Bernardino,98346
+37013,Antioch,Davidson,97939
+94565,Pittsburg,Contra Costa,97671
+90250,Hawthorne,Los Angeles,97072
+90805,Long Beach,Los Angeles,95995
+92503,Riverside,Riverside,95551
+75052,Grand Prairie,Dallas,95495
+60618,Chicago,Cook,94907
+90280,South Gate,Los Angeles,94642
+91342,Sylmar,Los Angeles,94595
+11373,Elmhurst,Queens,94437
+77479,Sugar Land,Fort Bend,93848
+11234,Brooklyn,Kings,93534
+926,San Juan,San Juan,93330
+11220,Brooklyn,Kings,93170
+10456,Bronx,Bronx,92717
+11214,Brooklyn,Kings,92644
+10025,New York,New York,92251
+91710,Chino,San Bernardino,91773
+30043,Lawrenceville,Gwinnett,91378
+78660,Pflugerville,Travis,91300
+92683,Westminster,Orange,91105
+11207,Brooklyn,Kings,91083
+78521,Brownsville,Cameron,90687
+77433,Cypress,Harris,90657
+77584,Pearland,Brazoria,90372
+92804,Anaheim,Orange,89915
+60632,Chicago,Cook,89857
+10314,Staten Island,Richmond,89792
+11219,Brooklyn,Kings,89371
+75217,Dallas,Dallas,89163
+30044,Lawrenceville,Gwinnett,89139
+92154,San Diego,San Diego,88979
+77429,Cypress,Harris,88628
+11206,Brooklyn,Kings,88422
+92704,Santa Ana,Orange,88321
+60639,Chicago,Cook,88204
+77573,League City,Galveston,88131
+60647,Chicago,Cook,87633
+29483,Summerville,Dorchester,87341
+95076,Watsonville,Santa Cruz,86905
+93307,Bakersfield,Kern,86832
+11230,Brooklyn,Kings,86139
+92376,Rialto,San Bernardino,86085
+10458,Bronx,Bronx,85620
+91744,La Puente,Los Angeles,85421
+92592,Temecula,Riverside,84930
+94112,San Francisco,San Francisco,84707
+93033,Oxnard,Ventura,84701
+93722,Fresno,Fresno,84621
+93727,Fresno,Fresno,84449
+79938,El Paso,El Paso,84237
+91911,Chula Vista,San Diego,84026
+11377,Woodside,Queens,83825
+60617,Chicago,Cook,83553
+11221,Brooklyn,Kings,83322
+11229,Brooklyn,Kings,83119
+78666,San Marcos,Hays,82923
+92126,San Diego,San Diego,82658
+60804,Cicero,Cook,82383
+22193,Woodbridge,Prince William,82309
+92345,Hesperia,San Bernardino,82110
+78613,Cedar Park,Williamson,81943
+91335,Reseda,Los Angeles,81824
+66062,Olathe,Johnson,81780
+10453,Bronx,Bronx,81716
+11223,Brooklyn,Kings,81388
+92509,Riverside,Riverside,81383
+77379,Spring,Harris,81368
+60623,Chicago,Cook,81283
+11355,Flushing,Queens,80987
+91709,Chino Hills,San Bernardino,80701
+78572,Mission,Hidalgo,80601
+725,Caguas,Caguas,80537
+60608,Chicago,Cook,80059
+27610,Raleigh,Wake,79924
+99301,Pasco,Franklin,79819
+94544,Hayward,Alameda,79747
+95035,Milpitas,Santa Clara,79655
+60625,Chicago,Cook,79444
+95823,Sacramento,Sacramento,79440
+11233,Brooklyn,Kings,79439
+30024,Suwanee,Gwinnett,79000
+10468,Bronx,Bronx,78881
+11235,Brooklyn,Kings,78775
+77083,Houston,Harris,78298
+87121,Albuquerque,Bernalillo,78276
+79912,El Paso,El Paso,78267
+95630,Folsom,Sacramento,78159
+78577,Pharr,Hidalgo,78103
+37042,Clarksville,Montgomery,77945
+47906,West Lafayette,Tippecanoe,77702
+75211,Dallas,Dallas,77570
+93550,Palmdale,Los Angeles,77506
+76244,Keller,Tarrant,77496
+78130,New Braunfels,Comal,77400
+78542,Edinburg,Hidalgo,77336
+28269,Charlotte,Mecklenburg,77248
+90706,Bellflower,Los Angeles,77195
+91706,Baldwin Park,Los Angeles,76930
+10029,New York,New York,76713
+93257,Porterville,Tulare,76519
+78245,San Antonio,Bexar,76518
+33024,Hollywood,Broward,76508
+23464,Virginia Beach,Virginia Beach City,76421
+11204,Brooklyn,Kings,76395
+92553,Moreno Valley,Riverside,76102
+11203,Brooklyn,Kings,76085
+33311,Fort Lauderdale,Broward,76073
+37211,Nashville,Davidson,75955
+94533,Fairfield,Solano,75909
+10462,Bronx,Bronx,75714
+11212,Brooklyn,Kings,75605
+75035,Frisco,Collin,75485
+10452,Bronx,Bronx,75452
+63376,Saint Peters,Saint Charles,75395
+60634,Chicago,Cook,75082
+10466,Bronx,Bronx,75039
+90255,Huntington Park,Los Angeles,75019
+91910,Chula Vista,San Diego,74855
+94536,Fremont,Alameda,74837
+10457,Bronx,Bronx,74822
+60505,Aurora,Kane,74726
+94587,Union City,Alameda,74722
+96706,Ewa Beach,Honolulu,74592
+30349,Atlanta,Fulton,74590
+10002,New York,New York,74479
+92805,Anaheim,Orange,74478
+77036,Houston,Harris,74472
+85364,Yuma,Yuma,74333
+93535,Lancaster,Los Angeles,74264
+80013,Aurora,Arapahoe,74105
+97006,Beaverton,Washington,74070
+19120,Philadelphia,Philadelphia,74060
+93274,Tulare,Tulare,74000
+89108,Las Vegas,Clark,73991
+75228,Dallas,Dallas,73976
+33023,Hollywood,Broward,73973
+33012,Hialeah,Miami-Dade,73828
+90003,Los Angeles,Los Angeles,73730
+77450,Katy,Harris,73692
+92105,San Diego,San Diego,73623
+96797,Waipahu,Honolulu,73579
+33025,Hollywood,Broward,73428
+92882,Corona,Riverside,73250
+76063,Mansfield,Tarrant,73216
+85032,Phoenix,Maricopa,73203
+11375,Forest Hills,Queens,73034
+949,Toa Baja,Toa Baja,72943
+30040,Cumming,Forsyth,72909
+77459,Missouri City,Fort Bend,72788
+33411,West Palm Beach,Palm Beach,72546
+11218,Brooklyn,Kings,72413
+91730,Rancho Cucamonga,San Bernardino,72407
+10469,Bronx,Bronx,72384
+94110,San Francisco,San Francisco,72380
+91766,Pomona,Los Angeles,72348
+97007,Beaverton,Washington,72299
+93306,Bakersfield,Kern,72280
+28277,Charlotte,Mecklenburg,72132
+78641,Leander,Williamson,72078
+91402,Panorama City,Los Angeles,72059
+60614,Chicago,Cook,71954
+93065,Simi Valley,Ventura,71832
+89110,Las Vegas,Clark,71489
+84095,South Jordan,Salt Lake,71427
+85142,Queen Creek,Maricopa,71423
+84118,Salt Lake City,Salt Lake,71309
+75002,Allen,Collin,71253
+45011,Hamilton,Butler,71189
+953,Toa Alta,Toa Alta,71174
+10463,Bronx,Bronx,71132
+22191,Woodbridge,Prince William,71019
+33647,Tampa,Hillsborough,71004
+78046,Laredo,Webb,70989
+60657,Chicago,Cook,70958
+20906,Silver Spring,Montgomery,70749
+34953,Port Saint Lucie,Saint Lucie,70705
+60085,Waukegan,Lake,70700
+77095,Houston,Harris,70692
+80219,Denver,Denver,70638
+90262,Lynwood,Los Angeles,70536
+76028,Burleson,Johnson,70507
+73099,Yukon,Canadian,70417
+85225,Chandler,Maricopa,70356
+19124,Philadelphia,Philadelphia,70304
+30127,Powder Springs,Cobb,70298
+98052,Redmond,King,70245
+93536,Lancaster,Los Angeles,70237
+92021,El Cajon,San Diego,70148
+7055,Passaic,Passaic,70090
+34787,Winter Garden,Orange,69976
+6902,Stamford,Fairfield,69946
+60641,Chicago,Cook,69880
+11215,Brooklyn,Kings,69873
+20011,Washington,District Of Columbia,69710
+92880,Corona,Riverside,69656
+97701,Bend,Deschutes,69499
+32828,Orlando,Orange,69497
+80015,Aurora,Arapahoe,69487
+92563,Murrieta,Riverside,69469
+97229,Portland,Washington,69450
+60640,Chicago,Cook,69363
+80134,Parker,Douglas,69163
+30041,Cumming,Forsyth,69117
+92703,Santa Ana,Orange,69112
+90631,La Habra,Orange,69064
+95687,Vacaville,Solano,69060
+30022,Alpharetta,Fulton,68945
+90026,Los Angeles,Los Angeles,68906
+92114,San Diego,San Diego,68851
+87114,Albuquerque,Bernalillo,68789
+95123,San Jose,Santa Clara,68766
+28027,Concord,Cabarrus,68716
+30096,Duluth,Gwinnett,68691
+33186,Miami,Miami-Dade,68581
+85301,Glendale,Maricopa,68579
+30052,Loganville,Gwinnett,68563
+92407,San Bernardino,San Bernardino,68545
+11691,Far Rockaway,Queens,68543
+27587,Wake Forest,Wake,68491
+30281,Stockbridge,Henry,68456
+11706,Bay Shore,Suffolk,68401
+21234,Parkville,Baltimore,68381
+94558,Napa,Napa,68315
+75243,Dallas,Dallas,68308
+7087,Union City,Hudson,68256
+75067,Lewisville,Denton,68196
+94509,Antioch,Contra Costa,68166
+19111,Philadelphia,Philadelphia,68113
+48197,Ypsilanti,Washtenaw,68108
+10472,Bronx,Bronx,67948
+85204,Mesa,Maricopa,67924
+11746,Huntington Station,Suffolk,67863
+11209,Brooklyn,Kings,67782
+20002,Washington,District Of Columbia,67750
+89031,North Las Vegas,Clark,67750
+60620,Chicago,Cook,67711
+30135,Douglasville,Douglas,67710
+90037,Los Angeles,Los Angeles,67640
+93230,Hanford,Kings,67605
+94080,South San Francisco,San Mateo,67600
+94538,Fremont,Alameda,67474
+33157,Miami,Miami-Dade,67455
+98012,Bothell,Snohomish,67427
+78596,Weslaco,Hidalgo,67269
+33015,Hialeah,Miami-Dade,67191
+11213,Brooklyn,Kings,67056
+90022,Los Angeles,Los Angeles,67014
+95747,Roseville,Placer,66931
+85281,Tempe,Maricopa,66833
+77346,Humble,Harris,66805
+91343,North Hills,Los Angeles,66743
+85308,Glendale,Maricopa,66706
+78045,Laredo,Webb,66685
+30331,Atlanta,Fulton,66658
+77845,College Station,Brazos,66649
+92801,Anaheim,Orange,66594
+84015,Clearfield,Davis,66410
+92677,Laguna Niguel,Orange,66314
+95127,San Jose,Santa Clara,66256
+10977,Spring Valley,Rockland,66138
+75068,Little Elm,Denton,65991
+37075,Hendersonville,Sumner,65986
+95624,Elk Grove,Sacramento,65948
+30047,Lilburn,Gwinnett,65937
+94541,Hayward,Alameda,65928
+23462,Virginia Beach,Virginia Beach City,65906
+95758,Elk Grove,Sacramento,65811
+30062,Marietta,Cobb,65801
+92201,Indio,Riverside,65726
+43123,Grove City,Franklin,65577
+76179,Fort Worth,Tarrant,65496
+30004,Alpharetta,Fulton,65294
+7002,Bayonne,Hudson,65091
+94015,Daly City,San Mateo,65041
+7305,Jersey City,Hudson,64994
+10027,New York,New York,64988
+23322,Chesapeake,Chesapeake City,64972
+30188,Woodstock,Cherokee,64836
+95020,Gilroy,Santa Clara,64833
+85033,Phoenix,Maricopa,64832
+66061,Olathe,Johnson,64791
+91977,Spring Valley,San Diego,64750
+78664,Round Rock,Williamson,64686
+11210,Brooklyn,Kings,64665
+19143,Philadelphia,Philadelphia,64630
+90019,Los Angeles,Los Angeles,64534
+84043,Lehi,Utah,64478
+93906,Salinas,Monterey,64348
+92115,San Diego,San Diego,64343
+94513,Brentwood,Contra Costa,64313
+11434,Jamaica,Queens,64304
+11432,Jamaica,Queens,64299
+92562,Murrieta,Riverside,64286
+94806,San Pablo,Contra Costa,64286
+32765,Oviedo,Seminole,64268
+60628,Chicago,Cook,64254
+95206,Stockton,San Joaquin,64250
+17603,Lancaster,Lancaster,64242
+14850,Ithaca,Tompkins,64221
+84404,Ogden,Weber,64093
+99654,Wasilla,Matanuska Susitna,64062
+32218,Jacksonville,Duval,64007
+7093,West New York,Hudson,63979
+83646,Meridian,Ada,63945
+87120,Albuquerque,Bernalillo,63884
+20147,Ashburn,Loudoun,63878
+92346,Highland,San Bernardino,63857
+20019,Washington,District Of Columbia,63829
+94501,Alameda,Alameda,63821
+43081,Westerville,Franklin,63604
+33463,Lake Worth,Palm Beach,63577
+44256,Medina,Medina,63497
+60651,Chicago,Cook,63492
+11717,Brentwood,Suffolk,63492
+2301,Brockton,Plymouth,63420
+8753,Toms River,Ocean,63415
+11201,Brooklyn,Kings,63378
+44035,Elyria,Lorain,63333
+85326,Buckeye,Maricopa,63317
+956,Bayamon,Bayamon,63264
+10032,New York,New York,63214
+27406,Greensboro,Guilford,63199
+90042,Los Angeles,Los Angeles,63193
+89121,Las Vegas,Clark,63190
+92627,Costa Mesa,Orange,63161
+89115,Las Vegas,Clark,63084
+78501,Mcallen,Hidalgo,63066
+43026,Hilliard,Franklin,63047
+20878,Gaithersburg,Montgomery,63030
+90660,Pico Rivera,Los Angeles,63001
+60402,Berwyn,Cook,62960
+92404,San Bernardino,San Bernardino,62915
+91732,El Monte,Los Angeles,62905
+91950,National City,San Diego,62859
+11372,Jackson Heights,Queens,62854
+33313,Fort Lauderdale,Broward,62842
+46307,Crown Point,Lake,62779
+90640,Montebello,Los Angeles,62730
+91770,Rosemead,Los Angeles,62703
+43055,Newark,Licking,62666
+74012,Broken Arrow,Tulsa,62622
+78574,Mission,Hidalgo,62616
+75043,Garland,Dallas,62601
+28215,Charlotte,Mecklenburg,62543
+10023,New York,New York,62541
+95608,Carmichael,Sacramento,62539
+78520,Brownsville,Cameron,62490
+75040,Garland,Dallas,62417
+78228,San Antonio,Bexar,62359
+85008,Phoenix,Maricopa,62340
+40475,Richmond,Madison,62250
+95112,San Jose,Santa Clara,62228
+92647,Huntington Beach,Orange,62199
+78251,San Antonio,Bexar,62186
+85041,Phoenix,Maricopa,62152
+94122,San Francisco,San Francisco,62128
+19134,Philadelphia,Philadelphia,62087
+91702,Azusa,Los Angeles,62066
+32210,Jacksonville,Duval,62048
+78745,Austin,Travis,61907
+95014,Cupertino,Santa Clara,61866
+95111,San Jose,Santa Clara,61830
+38401,Columbia,Maury,61787
+42101,Bowling Green,Warren,61768
+21740,Hagerstown,Washington,61768
+32822,Orlando,Orange,61760
+91762,Ontario,San Bernardino,61718
+78250,San Antonio,Bexar,61669
+78249,San Antonio,Bexar,61639
+93312,Bakersfield,Kern,61628
+7047,North Bergen,Hudson,61619
+10701,Yonkers,Westchester,61604
+34711,Clermont,Lake,61594
+60073,Round Lake,Lake,61592
+43130,Lancaster,Fairfield,61565
+77373,Spring,Harris,61501
+91761,Ontario,San Bernardino,61425
+10312,Staten Island,Richmond,61392
+48180,Taylor,Wayne,61379
+33414,West Palm Beach,Palm Beach,61323
+33064,Pompano Beach,Broward,61293
+32825,Orlando,Orange,61289
+60619,Chicago,Cook,61207
+33125,Miami,Miami-Dade,61156
+77072,Houston,Harris,61122
+20874,Germantown,Montgomery,61087
+21122,Pasadena,Anne Arundel,61051
+28078,Huntersville,Mecklenburg,61043
+2148,Malden,Middlesex,60984
+60609,Chicago,Cook,60939
+78240,San Antonio,Bexar,60927
+29072,Lexington,Lexington,60908
+98682,Vancouver,Clark,60887
+92707,Santa Ana,Orange,60831
+92570,Perris,Riverside,60686
+33027,Hollywood,Broward,60679
+89123,Las Vegas,Clark,60679
+75150,Mesquite,Dallas,60671
+90731,San Pedro,Los Angeles,60659
+75056,The Colony,Denton,60554
+90004,Los Angeles,Los Angeles,60541
+37129,Murfreesboro,Rutherford,60540
+93905,Salinas,Monterey,60531
+78753,Austin,Travis,60426
+92057,Oceanside,San Diego,60414
+76137,Fort Worth,Tarrant,60385
+29681,Simpsonville,Greenville,60303
+6010,Bristol,Hartford,60218
+77521,Baytown,Harris,60164
+44060,Mentor,Lake,60134
+76010,Arlington,Tarrant,60097
+29485,Summerville,Dorchester,60028
+53215,Milwaukee,Milwaukee,60010
+77407,Richmond,Fort Bend County,60000
+92324,Colton,San Bernardino,59972
+75227,Dallas,Dallas,59924
+92504,Riverside,Riverside,59896
+95051,Santa Clara,Santa Clara,59851
+90001,Los Angeles,Los Angeles,59832
+2360,Plymouth,Plymouth,59826
+30263,Newnan,Coweta,59799
+30058,Lithonia,Dekalb,59751
+92020,El Cajon,San Diego,59743
+2155,Medford,Middlesex,59735
+80634,Greeley,Weld,59702
+96818,Honolulu,Honolulu,59679
+19720,New Castle,New Castle,59664
+85035,Phoenix,Maricopa,59660
+79924,El Paso,El Paso,59648
+95355,Modesto,Stanislaus,59621
+30906,Augusta,Richmond,59609
+11435,Jamaica,Queens,59605
+77077,Houston,Harris,59588
+10031,New York,New York,59586
+10473,Bronx,Bronx,59579
+90006,Los Angeles,Los Angeles,59576
+28173,Waxhaw,Union,59559
+30101,Acworth,Cobb,59515
+37167,Smyrna,Rutherford,59514
+73160,Oklahoma City,Cleveland,59509
+92780,Tustin,Orange,59499
+10460,Bronx,Bronx,59432
+92630,Lake Forest,Orange,59403
+32244,Jacksonville,Duval,59402
+22003,Annandale,Fairfax,59375
+77840,College Station,Brazos,59371
+612,Arecibo,Arecibo,59369
+29445,Goose Creek,Berkeley,59342
+22030,Fairfax,Fairfax City,59332
+21117,Owings Mills,Baltimore,59301
+32808,Orlando,Orange,59291
+60016,Des Plaines,Cook,59291
+93291,Visalia,Tulare,59270
+27858,Greenville,Pitt,59182
+90066,Los Angeles,Los Angeles,59167
+92507,Riverside,Riverside,59152
+43230,Columbus,Franklin,59111
+78254,San Antonio,Bexar,59107
+33142,Miami,Miami-Dade,59073
+29732,Rock Hill,York,59059
+23452,Virginia Beach,Virginia Beach City,58996
+37064,Franklin,Williamson,58937
+23454,Virginia Beach,Virginia Beach City,58904
+33511,Brandon,Hillsborough,58833
+28314,Fayetteville,Cumberland,58827
+22407,Fredericksburg,Spotsylvania,58826
+31419,Savannah,Chatham,58800
+78640,Kyle,Hays,58790
+55106,Saint Paul,Ramsey,58771
+72401,Jonesboro,Craighead,58725
+85122,Casa Grande,Pinal,58724
+95828,Sacramento,Sacramento,58717
+33458,Jupiter,Palm Beach,58714
+22192,Woodbridge,Prince William,58690
+60638,Chicago,Cook,58669
+976,Trujillo Alto,Trujillo Alto,58640
+10128,New York,New York,58636

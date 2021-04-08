@@ -1,0 +1,1202 @@
+[
+  {
+    "State": "California",
+    "pop2021": 9969510,
+    "pop2010": 9823250,
+    "GrowthRate": "0.0149"
+  },
+  {
+    "State": "Illinois",
+    "pop2021": 5106780,
+    "pop2010": 5199020,
+    "GrowthRate": "-0.0177"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 4779880,
+    "pop2010": 4107670,
+    "GrowthRate": "0.1636"
+  },
+  {
+    "State": "Arizona",
+    "pop2021": 4651440,
+    "pop2010": 3825110,
+    "GrowthRate": "0.2160"
+  },
+  {
+    "State": "California",
+    "pop2021": 3347270,
+    "pop2010": 3103210,
+    "GrowthRate": "0.0786"
+  },
+  {
+    "State": "California",
+    "pop2021": 3175130,
+    "pop2010": 3015170,
+    "GrowthRate": "0.0531"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 2721110,
+    "pop2010": 2506970,
+    "GrowthRate": "0.0854"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 2647850,
+    "pop2010": 2372990,
+    "GrowthRate": "0.1158"
+  },
+  {
+    "State": "New York",
+    "pop2021": 2523560,
+    "pop2010": 2509830,
+    "GrowthRate": "0.0055"
+  },
+  {
+    "State": "California",
+    "pop2021": 2520060,
+    "pop2010": 2201580,
+    "GrowthRate": "0.1447"
+  },
+  {
+    "State": "Nevada",
+    "pop2021": 2347920,
+    "pop2010": 1952590,
+    "GrowthRate": "0.2025"
+  },
+  {
+    "State": "Washington",
+    "pop2021": 2301620,
+    "pop2010": 1938350,
+    "GrowthRate": "0.1874"
+  },
+  {
+    "State": "New York",
+    "pop2021": 2212360,
+    "pop2010": 2234700,
+    "GrowthRate": "-0.0100"
+  },
+  {
+    "State": "California",
+    "pop2021": 2206750,
+    "pop2010": 2040850,
+    "GrowthRate": "0.0813"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 2144650,
+    "pop2010": 1817480,
+    "GrowthRate": "0.1800"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 2048290,
+    "pop2010": 1722840,
+    "GrowthRate": "0.1889"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 1966120,
+    "pop2010": 1752800,
+    "GrowthRate": "0.1217"
+  },
+  {
+    "State": "California",
+    "pop2021": 1918880,
+    "pop2010": 1786040,
+    "GrowthRate": "0.0744"
+  },
+  {
+    "State": "Michigan",
+    "pop2021": 1739120,
+    "pop2010": 1815080,
+    "GrowthRate": "-0.0418"
+  },
+  {
+    "State": "California",
+    "pop2021": 1680480,
+    "pop2010": 1512990,
+    "GrowthRate": "0.1107"
+  },
+  {
+    "State": "New York",
+    "pop2021": 1628010,
+    "pop2010": 1588770,
+    "GrowthRate": "0.0247"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 1618160,
+    "pop2010": 1507680,
+    "GrowthRate": "0.0733"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 1585010,
+    "pop2010": 1528280,
+    "GrowthRate": "0.0371"
+  },
+  {
+    "State": "California",
+    "pop2021": 1578680,
+    "pop2010": 1421380,
+    "GrowthRate": "0.1107"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 1524560,
+    "pop2010": 1323620,
+    "GrowthRate": "0.1518"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 1512070,
+    "pop2010": 1233500,
+    "GrowthRate": "0.2258"
+  },
+  {
+    "State": "New York",
+    "pop2021": 1468140,
+    "pop2010": 1494340,
+    "GrowthRate": "-0.0175"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 1417280,
+    "pop2010": 1148560,
+    "GrowthRate": "0.2340"
+  },
+  {
+    "State": "New York",
+    "pop2021": 1390450,
+    "pop2010": 1387300,
+    "GrowthRate": "0.0023"
+  },
+  {
+    "State": "New York",
+    "pop2021": 1355700,
+    "pop2010": 1341670,
+    "GrowthRate": "0.0105"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 1334870,
+    "pop2010": 1166200,
+    "GrowthRate": "0.1446"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 1328720,
+    "pop2010": 1030500,
+    "GrowthRate": "0.2894"
+  },
+  {
+    "State": "Minnesota",
+    "pop2021": 1281680,
+    "pop2010": 1154190,
+    "GrowthRate": "0.1105"
+  },
+  {
+    "State": "Michigan",
+    "pop2021": 1259360,
+    "pop2010": 1203110,
+    "GrowthRate": "0.0468"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 1221780,
+    "pop2010": 1278090,
+    "GrowthRate": "-0.0441"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 1213570,
+    "pop2010": 1223960,
+    "GrowthRate": "-0.0085"
+  },
+  {
+    "State": "Utah",
+    "pop2021": 1183930,
+    "pop2010": 1032980,
+    "GrowthRate": "0.1461"
+  },
+  {
+    "State": "California",
+    "pop2021": 1159540,
+    "pop2010": 1052540,
+    "GrowthRate": "0.1017"
+  },
+  {
+    "State": "North Carolina",
+    "pop2021": 1152740,
+    "pop2010": 906870,
+    "GrowthRate": "0.2711"
+  },
+  {
+    "State": "Virginia",
+    "pop2021": 1145670,
+    "pop2010": 1086160,
+    "GrowthRate": "0.0548"
+  },
+  {
+    "State": "North Carolina",
+    "pop2021": 1143570,
+    "pop2010": 923242,
+    "GrowthRate": "0.2386"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 1095580,
+    "pop2010": 787614,
+    "GrowthRate": "0.3910"
+  },
+  {
+    "State": "Georgia",
+    "pop2021": 1091550,
+    "pop2010": 925632,
+    "GrowthRate": "0.1792"
+  },
+  {
+    "State": "Arizona",
+    "pop2021": 1068730,
+    "pop2010": 981620,
+    "GrowthRate": "0.0887"
+  },
+  {
+    "State": "Maryland",
+    "pop2021": 1055110,
+    "pop2010": 975602,
+    "GrowthRate": "0.0815"
+  },
+  {
+    "State": "California",
+    "pop2021": 1013400,
+    "pop2010": 932039,
+    "GrowthRate": "0.0873"
+  },
+  {
+    "State": "Missouri",
+    "pop2021": 992177,
+    "pop2010": 998840,
+    "GrowthRate": "-0.0067"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 978872,
+    "pop2010": 916412,
+    "GrowthRate": "0.0682"
+  },
+  {
+    "State": "Indiana",
+    "pop2021": 976346,
+    "pop2010": 904591,
+    "GrowthRate": "0.0793"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 975961,
+    "pop2010": 865628,
+    "GrowthRate": "0.1275"
+  },
+  {
+    "State": "New York",
+    "pop2021": 966092,
+    "pop2010": 950601,
+    "GrowthRate": "0.0163"
+  },
+  {
+    "State": "Hawaii",
+    "pop2021": 963973,
+    "pop2010": 956285,
+    "GrowthRate": "0.0080"
+  },
+  {
+    "State": "Georgia",
+    "pop2021": 954076,
+    "pop2010": 808007,
+    "GrowthRate": "0.1808"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 944139,
+    "pop2010": 666760,
+    "GrowthRate": "0.4160"
+  },
+  {
+    "State": "Wisconsin",
+    "pop2021": 943240,
+    "pop2010": 948285,
+    "GrowthRate": "-0.0053"
+  },
+  {
+    "State": "Connecticut",
+    "pop2021": 942054,
+    "pop2010": 919355,
+    "GrowthRate": "0.0247"
+  },
+  {
+    "State": "Tennessee",
+    "pop2021": 938768,
+    "pop2010": 928447,
+    "GrowthRate": "0.0111"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 930974,
+    "pop2010": 906284,
+    "GrowthRate": "0.0272"
+  },
+  {
+    "State": "Washington",
+    "pop2021": 927428,
+    "pop2010": 795390,
+    "GrowthRate": "0.1660"
+  },
+  {
+    "State": "New York",
+    "pop2021": 916672,
+    "pop2010": 919152,
+    "GrowthRate": "-0.0027"
+  },
+  {
+    "State": "Illinois",
+    "pop2021": 914269,
+    "pop2010": 917983,
+    "GrowthRate": "-0.0040"
+  },
+  {
+    "State": "California",
+    "pop2021": 913090,
+    "pop2010": 840996,
+    "GrowthRate": "0.0857"
+  },
+  {
+    "State": "Maryland",
+    "pop2021": 908743,
+    "pop2010": 866419,
+    "GrowthRate": "0.0488"
+  },
+  {
+    "State": "Connecticut",
+    "pop2021": 890000,
+    "pop2010": 895236,
+    "GrowthRate": "-0.0058"
+  },
+  {
+    "State": "California",
+    "pop2021": 883255,
+    "pop2010": 805505,
+    "GrowthRate": "0.0965"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 881525,
+    "pop2010": 779149,
+    "GrowthRate": "0.1314"
+  },
+  {
+    "State": "Michigan",
+    "pop2021": 876326,
+    "pop2010": 841352,
+    "GrowthRate": "0.0416"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 858902,
+    "pop2010": 590253,
+    "GrowthRate": "0.4551"
+  },
+  {
+    "State": "Connecticut",
+    "pop2021": 850329,
+    "pop2010": 863357,
+    "GrowthRate": "-0.0151"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 844064,
+    "pop2010": 803576,
+    "GrowthRate": "0.0504"
+  },
+  {
+    "State": "California",
+    "pop2021": 841734,
+    "pop2010": 825097,
+    "GrowthRate": "0.0202"
+  },
+  {
+    "State": "Washington",
+    "pop2021": 840131,
+    "pop2010": 715500,
+    "GrowthRate": "0.1742"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 838897,
+    "pop2010": 800874,
+    "GrowthRate": "0.0475"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 833758,
+    "pop2010": 800391,
+    "GrowthRate": "0.0417"
+  },
+  {
+    "State": "Maryland",
+    "pop2021": 826392,
+    "pop2010": 806656,
+    "GrowthRate": "0.0245"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 822842,
+    "pop2010": 810758,
+    "GrowthRate": "0.0149"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 821529,
+    "pop2010": 802278,
+    "GrowthRate": "0.0240"
+  },
+  {
+    "State": "Oregon",
+    "pop2021": 820421,
+    "pop2010": 737276,
+    "GrowthRate": "0.1128"
+  },
+  {
+    "State": "Oklahoma",
+    "pop2021": 811116,
+    "pop2010": 720762,
+    "GrowthRate": "0.1254"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 805427,
+    "pop2010": 725772,
+    "GrowthRate": "0.1098"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 802791,
+    "pop2010": 620449,
+    "GrowthRate": "0.2939"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 799785,
+    "pop2010": 784037,
+    "GrowthRate": "0.0201"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 790736,
+    "pop2010": 745461,
+    "GrowthRate": "0.0607"
+  },
+  {
+    "State": "California",
+    "pop2021": 781462,
+    "pop2010": 687127,
+    "GrowthRate": "0.1373"
+  },
+  {
+    "State": "Georgia",
+    "pop2021": 768283,
+    "pop2010": 689495,
+    "GrowthRate": "0.1143"
+  },
+  {
+    "State": "Georgia",
+    "pop2021": 768079,
+    "pop2010": 692443,
+    "GrowthRate": "0.1092"
+  },
+  {
+    "State": "Kentucky",
+    "pop2021": 764069,
+    "pop2010": 742054,
+    "GrowthRate": "0.0297"
+  },
+  {
+    "State": "California",
+    "pop2021": 762357,
+    "pop2010": 719699,
+    "GrowthRate": "0.0593"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 761137,
+    "pop2010": 603102,
+    "GrowthRate": "0.2620"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 749103,
+    "pop2010": 603359,
+    "GrowthRate": "0.2416"
+  },
+  {
+    "State": "New York",
+    "pop2021": 739582,
+    "pop2010": 744580,
+    "GrowthRate": "-0.0067"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 737031,
+    "pop2010": 627031,
+    "GrowthRate": "0.1754"
+  },
+  {
+    "State": "District of Columbia",
+    "pop2021": 714153,
+    "pop2010": 605226,
+    "GrowthRate": "0.1800"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 713865,
+    "pop2010": 673019,
+    "GrowthRate": "0.0607"
+  },
+  {
+    "State": "Missouri",
+    "pop2021": 707465,
+    "pop2010": 674845,
+    "GrowthRate": "0.0483"
+  },
+  {
+    "State": "Tennessee",
+    "pop2021": 701400,
+    "pop2010": 627746,
+    "GrowthRate": "0.1173"
+  },
+  {
+    "State": "Illinois",
+    "pop2021": 690431,
+    "pop2010": 704170,
+    "GrowthRate": "-0.0195"
+  },
+  {
+    "State": "Illinois",
+    "pop2021": 689931,
+    "pop2010": 678824,
+    "GrowthRate": "0.0164"
+  },
+  {
+    "State": "New Mexico",
+    "pop2021": 681295,
+    "pop2010": 663923,
+    "GrowthRate": "0.0262"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 673311,
+    "pop2010": 635652,
+    "GrowthRate": "0.0592"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 666176,
+    "pop2010": 574747,
+    "GrowthRate": "0.1591"
+  },
+  {
+    "State": "Utah",
+    "pop2021": 665665,
+    "pop2010": 519998,
+    "GrowthRate": "0.2801"
+  },
+  {
+    "State": "Michigan",
+    "pop2021": 664165,
+    "pop2010": 602975,
+    "GrowthRate": "0.1015"
+  },
+  {
+    "State": "Oklahoma",
+    "pop2021": 659290,
+    "pop2010": 604973,
+    "GrowthRate": "0.0898"
+  },
+  {
+    "State": "Alabama",
+    "pop2021": 656861,
+    "pop2010": 658215,
+    "GrowthRate": "-0.0021"
+  },
+  {
+    "State": "Rhode Island",
+    "pop2021": 642887,
+    "pop2010": 627838,
+    "GrowthRate": "0.0240"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 642633,
+    "pop2010": 459208,
+    "GrowthRate": "0.3994"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 638727,
+    "pop2010": 426287,
+    "GrowthRate": "0.4983"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 629186,
+    "pop2010": 625385,
+    "GrowthRate": "0.0061"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 618602,
+    "pop2010": 577564,
+    "GrowthRate": "0.0711"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 615467,
+    "pop2010": 630461,
+    "GrowthRate": "-0.0238"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 615420,
+    "pop2010": 543965,
+    "GrowthRate": "0.1314"
+  },
+  {
+    "State": "Oregon",
+    "pop2021": 610968,
+    "pop2010": 531638,
+    "GrowthRate": "0.1492"
+  },
+  {
+    "State": "Kansas",
+    "pop2021": 610949,
+    "pop2010": 545655,
+    "GrowthRate": "0.1197"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 589859,
+    "pop2010": 535548,
+    "GrowthRate": "0.1014"
+  },
+  {
+    "State": "Maryland",
+    "pop2021": 586656,
+    "pop2010": 539284,
+    "GrowthRate": "0.0878"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 583661,
+    "pop2010": 465487,
+    "GrowthRate": "0.2539"
+  },
+  {
+    "State": "Nebraska",
+    "pop2021": 581199,
+    "pop2010": 518574,
+    "GrowthRate": "0.1208"
+  },
+  {
+    "State": "Maryland",
+    "pop2021": 575584,
+    "pop2010": 620915,
+    "GrowthRate": "-0.0730"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 569779,
+    "pop2010": 558981,
+    "GrowthRate": "0.0193"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 567650,
+    "pop2010": 494440,
+    "GrowthRate": "0.1481"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 567467,
+    "pop2010": 549166,
+    "GrowthRate": "0.0333"
+  },
+  {
+    "State": "Delaware",
+    "pop2021": 561159,
+    "pop2010": 538752,
+    "GrowthRate": "0.0416"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 556219,
+    "pop2010": 537369,
+    "GrowthRate": "0.0351"
+  },
+  {
+    "State": "Wisconsin",
+    "pop2021": 556189,
+    "pop2010": 489218,
+    "GrowthRate": "0.1369"
+  },
+  {
+    "State": "California",
+    "pop2021": 555728,
+    "pop2010": 515145,
+    "GrowthRate": "0.0788"
+  },
+  {
+    "State": "Minnesota",
+    "pop2021": 553219,
+    "pop2010": 509387,
+    "GrowthRate": "0.0860"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 549234,
+    "pop2010": 520319,
+    "GrowthRate": "0.0556"
+  },
+  {
+    "State": "North Carolina",
+    "pop2021": 546308,
+    "pop2010": 489618,
+    "GrowthRate": "0.1158"
+  },
+  {
+    "State": "South Carolina",
+    "pop2021": 541384,
+    "pop2010": 452697,
+    "GrowthRate": "0.1959"
+  },
+  {
+    "State": "Washington",
+    "pop2021": 541188,
+    "pop2010": 472081,
+    "GrowthRate": "0.1464"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 540333,
+    "pop2010": 541645,
+    "GrowthRate": "-0.0024"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 531861,
+    "pop2010": 535597,
+    "GrowthRate": "-0.0070"
+  },
+  {
+    "State": "Illinois",
+    "pop2021": 531769,
+    "pop2010": 516068,
+    "GrowthRate": "0.0304"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 530795,
+    "pop2010": 499925,
+    "GrowthRate": "0.0617"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 529555,
+    "pop2010": 443691,
+    "GrowthRate": "0.1935"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 526762,
+    "pop2010": 495926,
+    "GrowthRate": "0.0622"
+  },
+  {
+    "State": "Kansas",
+    "pop2021": 521158,
+    "pop2010": 499128,
+    "GrowthRate": "0.0441"
+  },
+  {
+    "State": "Idaho",
+    "pop2021": 507233,
+    "pop2010": 393354,
+    "GrowthRate": "0.2895"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 506707,
+    "pop2010": 513275,
+    "GrowthRate": "-0.0128"
+  },
+  {
+    "State": "Washington",
+    "pop2021": 501869,
+    "pop2010": 426704,
+    "GrowthRate": "0.1762"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 499112,
+    "pop2010": 502023,
+    "GrowthRate": "-0.0058"
+  },
+  {
+    "State": "Iowa",
+    "pop2021": 498817,
+    "pop2010": 432352,
+    "GrowthRate": "0.1537"
+  },
+  {
+    "State": "Arizona",
+    "pop2021": 494755,
+    "pop2010": 379094,
+    "GrowthRate": "0.3051"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 489395,
+    "pop2010": 492617,
+    "GrowthRate": "-0.0065"
+  },
+  {
+    "State": "Indiana",
+    "pop2021": 487599,
+    "pop2010": 495947,
+    "GrowthRate": "-0.0168"
+  },
+  {
+    "State": "Nevada",
+    "pop2021": 485849,
+    "pop2010": 421954,
+    "GrowthRate": "0.1514"
+  },
+  {
+    "State": "California",
+    "pop2021": 485722,
+    "pop2010": 484755,
+    "GrowthRate": "0.0020"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 479234,
+    "pop2010": 423051,
+    "GrowthRate": "0.1328"
+  },
+  {
+    "State": "Virginia",
+    "pop2021": 478535,
+    "pop2010": 406169,
+    "GrowthRate": "0.1782"
+  },
+  {
+    "State": "Tennessee",
+    "pop2021": 478423,
+    "pop2010": 432938,
+    "GrowthRate": "0.1051"
+  },
+  {
+    "State": "New York",
+    "pop2021": 475909,
+    "pop2010": 469615,
+    "GrowthRate": "0.0134"
+  },
+  {
+    "State": "California",
+    "pop2021": 469407,
+    "pop2010": 442969,
+    "GrowthRate": "0.0597"
+  },
+  {
+    "State": "Massachusetts",
+    "pop2021": 462340,
+    "pop2010": 464237,
+    "GrowthRate": "-0.0041"
+  },
+  {
+    "State": "New York",
+    "pop2021": 458286,
+    "pop2010": 467533,
+    "GrowthRate": "-0.0198"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 451480,
+    "pop2010": 435413,
+    "GrowthRate": "0.0369"
+  },
+  {
+    "State": "California",
+    "pop2021": 451479,
+    "pop2010": 413967,
+    "GrowthRate": "0.0906"
+  },
+  {
+    "State": "Virginia",
+    "pop2021": 450224,
+    "pop2010": 438859,
+    "GrowthRate": "0.0259"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 448568,
+    "pop2010": 379930,
+    "GrowthRate": "0.1807"
+  },
+  {
+    "State": "California",
+    "pop2021": 447937,
+    "pop2010": 424231,
+    "GrowthRate": "0.0559"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 446557,
+    "pop2010": 449129,
+    "GrowthRate": "-0.0057"
+  },
+  {
+    "State": "Minnesota",
+    "pop2021": 436983,
+    "pop2010": 399211,
+    "GrowthRate": "0.0946"
+  },
+  {
+    "State": "Louisiana",
+    "pop2021": 436061,
+    "pop2010": 440912,
+    "GrowthRate": "-0.0110"
+  },
+  {
+    "State": "California",
+    "pop2021": 434283,
+    "pop2010": 416373,
+    "GrowthRate": "0.0430"
+  },
+  {
+    "State": "Louisiana",
+    "pop2021": 429711,
+    "pop2010": 432610,
+    "GrowthRate": "-0.0067"
+  },
+  {
+    "State": "Virginia",
+    "pop2021": 429570,
+    "pop2010": 315478,
+    "GrowthRate": "0.3616"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 425820,
+    "pop2010": 441434,
+    "GrowthRate": "-0.0354"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 425211,
+    "pop2010": 407630,
+    "GrowthRate": "0.0431"
+  },
+  {
+    "State": "Oregon",
+    "pop2021": 423729,
+    "pop2010": 376788,
+    "GrowthRate": "0.1246"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 422434,
+    "pop2010": 412039,
+    "GrowthRate": "0.0252"
+  },
+  {
+    "State": "New Hampshire",
+    "pop2021": 421815,
+    "pop2010": 401055,
+    "GrowthRate": "0.0518"
+  },
+  {
+    "State": "South Carolina",
+    "pop2021": 421774,
+    "pop2010": 350940,
+    "GrowthRate": "0.2018"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 420985,
+    "pop2010": 323424,
+    "GrowthRate": "0.3017"
+  },
+  {
+    "State": "South Carolina",
+    "pop2021": 418873,
+    "pop2010": 385735,
+    "GrowthRate": "0.0859"
+  },
+  {
+    "State": "Alabama",
+    "pop2021": 411814,
+    "pop2010": 413315,
+    "GrowthRate": "-0.0036"
+  },
+  {
+    "State": "California",
+    "pop2021": 410327,
+    "pop2010": 350021,
+    "GrowthRate": "0.1723"
+  },
+  {
+    "State": "Missouri",
+    "pop2021": 408506,
+    "pop2010": 361803,
+    "GrowthRate": "0.1291"
+  },
+  {
+    "State": "Wisconsin",
+    "pop2021": 407550,
+    "pop2010": 390028,
+    "GrowthRate": "0.0449"
+  },
+  {
+    "State": "Michigan",
+    "pop2021": 404063,
+    "pop2010": 424953,
+    "GrowthRate": "-0.0492"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 398304,
+    "pop2010": 322581,
+    "GrowthRate": "0.2347"
+  },
+  {
+    "State": "Arkansas",
+    "pop2021": 391897,
+    "pop2010": 383538,
+    "GrowthRate": "0.0218"
+  },
+  {
+    "State": "New York",
+    "pop2021": 390568,
+    "pop2010": 373445,
+    "GrowthRate": "0.0459"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 390341,
+    "pop2010": 269837,
+    "GrowthRate": "0.4466"
+  },
+  {
+    "State": "Oregon",
+    "pop2021": 389103,
+    "pop2010": 351920,
+    "GrowthRate": "0.1057"
+  },
+  {
+    "State": "North Carolina",
+    "pop2021": 388453,
+    "pop2010": 351374,
+    "GrowthRate": "0.1055"
+  },
+  {
+    "State": "Louisiana",
+    "pop2021": 388424,
+    "pop2010": 347772,
+    "GrowthRate": "0.1169"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 387914,
+    "pop2010": 297709,
+    "GrowthRate": "0.3030"
+  },
+  {
+    "State": "Indiana",
+    "pop2021": 387739,
+    "pop2010": 355945,
+    "GrowthRate": "0.0893"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 385402,
+    "pop2010": 369102,
+    "GrowthRate": "0.0442"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 385018,
+    "pop2010": 314428,
+    "GrowthRate": "0.2245"
+  },
+  {
+    "State": "Alabama",
+    "pop2021": 384719,
+    "pop2010": 336095,
+    "GrowthRate": "0.1447"
+  },
+  {
+    "State": "Florida",
+    "pop2021": 378613,
+    "pop2010": 331331,
+    "GrowthRate": "0.1427"
+  },
+  {
+    "State": "Texas",
+    "pop2021": 377978,
+    "pop2010": 312849,
+    "GrowthRate": "0.2082"
+  },
+  {
+    "State": "Tennessee",
+    "pop2021": 374826,
+    "pop2010": 337214,
+    "GrowthRate": "0.1115"
+  },
+  {
+    "State": "South Carolina",
+    "pop2021": 374033,
+    "pop2010": 270274,
+    "GrowthRate": "0.3839"
+  },
+  {
+    "State": "Pennsylvania",
+    "pop2021": 371236,
+    "pop2010": 350164,
+    "GrowthRate": "0.0602"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 369377,
+    "pop2010": 300441,
+    "GrowthRate": "0.2294"
+  },
+  {
+    "State": "Ohio",
+    "pop2021": 369322,
+    "pop2010": 375372,
+    "GrowthRate": "-0.0161"
+  },
+  {
+    "State": "Colorado",
+    "pop2021": 367484,
+    "pop2010": 286977,
+    "GrowthRate": "0.2805"
+  },
+  {
+    "State": "New Jersey",
+    "pop2021": 365914,
+    "pop2010": 367713,
+    "GrowthRate": "-0.0049"
+  }
+]

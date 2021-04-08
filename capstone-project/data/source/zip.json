@@ -1,0 +1,3002 @@
+[
+  {
+    "zip": 77449,
+    "city": "Katy",
+    "county": "Harris",
+    "pop": 128294
+  },
+  {
+    "zip": 77494,
+    "city": "Katy",
+    "county": "Fort Bend",
+    "pop": 118291
+  },
+  {
+    "zip": 11368,
+    "city": "Corona",
+    "county": "Queens",
+    "pop": 112088
+  },
+  {
+    "zip": 79936,
+    "city": "El Paso",
+    "county": "El Paso",
+    "pop": 111620
+  },
+  {
+    "zip": 90011,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 111165
+  },
+  {
+    "zip": 60629,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 110029
+  },
+  {
+    "zip": 75034,
+    "city": "Frisco",
+    "county": "Collin",
+    "pop": 108525
+  },
+  {
+    "zip": 11385,
+    "city": "Ridgewood",
+    "county": "Queens",
+    "pop": 107796
+  },
+  {
+    "zip": 77084,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 107673
+  },
+  {
+    "zip": 91331,
+    "city": "Pacoima",
+    "county": "Los Angeles",
+    "pop": 105458
+  },
+  {
+    "zip": 90650,
+    "city": "Norwalk",
+    "county": "Los Angeles",
+    "pop": 105304
+  },
+  {
+    "zip": 75070,
+    "city": "Mc Kinney",
+    "county": "Collin",
+    "pop": 104415
+  },
+  {
+    "zip": 11211,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 103123
+  },
+  {
+    "zip": 8701,
+    "city": "Lakewood",
+    "county": "Ocean",
+    "pop": 102466
+  },
+  {
+    "zip": 90201,
+    "city": "Bell",
+    "county": "Los Angeles",
+    "pop": 101965
+  },
+  {
+    "zip": 11208,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 101313
+  },
+  {
+    "zip": 10467,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 101255
+  },
+  {
+    "zip": 11236,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 100844
+  },
+  {
+    "zip": 11226,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 99558
+  },
+  {
+    "zip": 90044,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 99443
+  },
+  {
+    "zip": 92335,
+    "city": "Fontana",
+    "county": "San Bernardino",
+    "pop": 99306
+  },
+  {
+    "zip": 92336,
+    "city": "Fontana",
+    "county": "San Bernardino",
+    "pop": 98346
+  },
+  {
+    "zip": 37013,
+    "city": "Antioch",
+    "county": "Davidson",
+    "pop": 97939
+  },
+  {
+    "zip": 94565,
+    "city": "Pittsburg",
+    "county": "Contra Costa",
+    "pop": 97671
+  },
+  {
+    "zip": 90250,
+    "city": "Hawthorne",
+    "county": "Los Angeles",
+    "pop": 97072
+  },
+  {
+    "zip": 90805,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 95995
+  },
+  {
+    "zip": 92503,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 95551
+  },
+  {
+    "zip": 75052,
+    "city": "Grand Prairie",
+    "county": "Dallas",
+    "pop": 95495
+  },
+  {
+    "zip": 60618,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 94907
+  },
+  {
+    "zip": 90280,
+    "city": "South Gate",
+    "county": "Los Angeles",
+    "pop": 94642
+  },
+  {
+    "zip": 91342,
+    "city": "Sylmar",
+    "county": "Los Angeles",
+    "pop": 94595
+  },
+  {
+    "zip": 11373,
+    "city": "Elmhurst",
+    "county": "Queens",
+    "pop": 94437
+  },
+  {
+    "zip": 77479,
+    "city": "Sugar Land",
+    "county": "Fort Bend",
+    "pop": 93848
+  },
+  {
+    "zip": 11234,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 93534
+  },
+  {
+    "zip": 926,
+    "city": "San Juan",
+    "county": "San Juan",
+    "pop": 93330
+  },
+  {
+    "zip": 11220,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 93170
+  },
+  {
+    "zip": 10456,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 92717
+  },
+  {
+    "zip": 11214,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 92644
+  },
+  {
+    "zip": 10025,
+    "city": "New York",
+    "county": "New York",
+    "pop": 92251
+  },
+  {
+    "zip": 91710,
+    "city": "Chino",
+    "county": "San Bernardino",
+    "pop": 91773
+  },
+  {
+    "zip": 30043,
+    "city": "Lawrenceville",
+    "county": "Gwinnett",
+    "pop": 91378
+  },
+  {
+    "zip": 78660,
+    "city": "Pflugerville",
+    "county": "Travis",
+    "pop": 91300
+  },
+  {
+    "zip": 92683,
+    "city": "Westminster",
+    "county": "Orange",
+    "pop": 91105
+  },
+  {
+    "zip": 11207,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 91083
+  },
+  {
+    "zip": 78521,
+    "city": "Brownsville",
+    "county": "Cameron",
+    "pop": 90687
+  },
+  {
+    "zip": 77433,
+    "city": "Cypress",
+    "county": "Harris",
+    "pop": 90657
+  },
+  {
+    "zip": 77584,
+    "city": "Pearland",
+    "county": "Brazoria",
+    "pop": 90372
+  },
+  {
+    "zip": 92804,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 89915
+  },
+  {
+    "zip": 60632,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 89857
+  },
+  {
+    "zip": 10314,
+    "city": "Staten Island",
+    "county": "Richmond",
+    "pop": 89792
+  },
+  {
+    "zip": 11219,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 89371
+  },
+  {
+    "zip": 75217,
+    "city": "Dallas",
+    "county": "Dallas",
+    "pop": 89163
+  },
+  {
+    "zip": 30044,
+    "city": "Lawrenceville",
+    "county": "Gwinnett",
+    "pop": 89139
+  },
+  {
+    "zip": 92154,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 88979
+  },
+  {
+    "zip": 77429,
+    "city": "Cypress",
+    "county": "Harris",
+    "pop": 88628
+  },
+  {
+    "zip": 11206,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 88422
+  },
+  {
+    "zip": 92704,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 88321
+  },
+  {
+    "zip": 60639,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 88204
+  },
+  {
+    "zip": 77573,
+    "city": "League City",
+    "county": "Galveston",
+    "pop": 88131
+  },
+  {
+    "zip": 60647,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 87633
+  },
+  {
+    "zip": 29483,
+    "city": "Summerville",
+    "county": "Dorchester",
+    "pop": 87341
+  },
+  {
+    "zip": 95076,
+    "city": "Watsonville",
+    "county": "Santa Cruz",
+    "pop": 86905
+  },
+  {
+    "zip": 93307,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 86832
+  },
+  {
+    "zip": 11230,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 86139
+  },
+  {
+    "zip": 92376,
+    "city": "Rialto",
+    "county": "San Bernardino",
+    "pop": 86085
+  },
+  {
+    "zip": 10458,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 85620
+  },
+  {
+    "zip": 91744,
+    "city": "La Puente",
+    "county": "Los Angeles",
+    "pop": 85421
+  },
+  {
+    "zip": 92592,
+    "city": "Temecula",
+    "county": "Riverside",
+    "pop": 84930
+  },
+  {
+    "zip": 94112,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 84707
+  },
+  {
+    "zip": 93033,
+    "city": "Oxnard",
+    "county": "Ventura",
+    "pop": 84701
+  },
+  {
+    "zip": 93722,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 84621
+  },
+  {
+    "zip": 93727,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 84449
+  },
+  {
+    "zip": 79938,
+    "city": "El Paso",
+    "county": "El Paso",
+    "pop": 84237
+  },
+  {
+    "zip": 91911,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 84026
+  },
+  {
+    "zip": 11377,
+    "city": "Woodside",
+    "county": "Queens",
+    "pop": 83825
+  },
+  {
+    "zip": 60617,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 83553
+  },
+  {
+    "zip": 11221,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 83322
+  },
+  {
+    "zip": 11229,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 83119
+  },
+  {
+    "zip": 78666,
+    "city": "San Marcos",
+    "county": "Hays",
+    "pop": 82923
+  },
+  {
+    "zip": 92126,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 82658
+  },
+  {
+    "zip": 60804,
+    "city": "Cicero",
+    "county": "Cook",
+    "pop": 82383
+  },
+  {
+    "zip": 22193,
+    "city": "Woodbridge",
+    "county": "Prince William",
+    "pop": 82309
+  },
+  {
+    "zip": 92345,
+    "city": "Hesperia",
+    "county": "San Bernardino",
+    "pop": 82110
+  },
+  {
+    "zip": 78613,
+    "city": "Cedar Park",
+    "county": "Williamson",
+    "pop": 81943
+  },
+  {
+    "zip": 91335,
+    "city": "Reseda",
+    "county": "Los Angeles",
+    "pop": 81824
+  },
+  {
+    "zip": 66062,
+    "city": "Olathe",
+    "county": "Johnson",
+    "pop": 81780
+  },
+  {
+    "zip": 10453,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 81716
+  },
+  {
+    "zip": 11223,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 81388
+  },
+  {
+    "zip": 92509,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 81383
+  },
+  {
+    "zip": 77379,
+    "city": "Spring",
+    "county": "Harris",
+    "pop": 81368
+  },
+  {
+    "zip": 60623,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 81283
+  },
+  {
+    "zip": 11355,
+    "city": "Flushing",
+    "county": "Queens",
+    "pop": 80987
+  },
+  {
+    "zip": 91709,
+    "city": "Chino Hills",
+    "county": "San Bernardino",
+    "pop": 80701
+  },
+  {
+    "zip": 78572,
+    "city": "Mission",
+    "county": "Hidalgo",
+    "pop": 80601
+  },
+  {
+    "zip": 725,
+    "city": "Caguas",
+    "county": "Caguas",
+    "pop": 80537
+  },
+  {
+    "zip": 60608,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 80059
+  },
+  {
+    "zip": 27610,
+    "city": "Raleigh",
+    "county": "Wake",
+    "pop": 79924
+  },
+  {
+    "zip": 99301,
+    "city": "Pasco",
+    "county": "Franklin",
+    "pop": 79819
+  },
+  {
+    "zip": 94544,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 79747
+  },
+  {
+    "zip": 95035,
+    "city": "Milpitas",
+    "county": "Santa Clara",
+    "pop": 79655
+  },
+  {
+    "zip": 60625,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 79444
+  },
+  {
+    "zip": 95823,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 79440
+  },
+  {
+    "zip": 11233,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 79439
+  },
+  {
+    "zip": 30024,
+    "city": "Suwanee",
+    "county": "Gwinnett",
+    "pop": 79000
+  },
+  {
+    "zip": 10468,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 78881
+  },
+  {
+    "zip": 11235,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 78775
+  },
+  {
+    "zip": 77083,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 78298
+  },
+  {
+    "zip": 87121,
+    "city": "Albuquerque",
+    "county": "Bernalillo",
+    "pop": 78276
+  },
+  {
+    "zip": 79912,
+    "city": "El Paso",
+    "county": "El Paso",
+    "pop": 78267
+  },
+  {
+    "zip": 95630,
+    "city": "Folsom",
+    "county": "Sacramento",
+    "pop": 78159
+  },
+  {
+    "zip": 78577,
+    "city": "Pharr",
+    "county": "Hidalgo",
+    "pop": 78103
+  },
+  {
+    "zip": 37042,
+    "city": "Clarksville",
+    "county": "Montgomery",
+    "pop": 77945
+  },
+  {
+    "zip": 47906,
+    "city": "West Lafayette",
+    "county": "Tippecanoe",
+    "pop": 77702
+  },
+  {
+    "zip": 75211,
+    "city": "Dallas",
+    "county": "Dallas",
+    "pop": 77570
+  },
+  {
+    "zip": 93550,
+    "city": "Palmdale",
+    "county": "Los Angeles",
+    "pop": 77506
+  },
+  {
+    "zip": 76244,
+    "city": "Keller",
+    "county": "Tarrant",
+    "pop": 77496
+  },
+  {
+    "zip": 78130,
+    "city": "New Braunfels",
+    "county": "Comal",
+    "pop": 77400
+  },
+  {
+    "zip": 78542,
+    "city": "Edinburg",
+    "county": "Hidalgo",
+    "pop": 77336
+  },
+  {
+    "zip": 28269,
+    "city": "Charlotte",
+    "county": "Mecklenburg",
+    "pop": 77248
+  },
+  {
+    "zip": 90706,
+    "city": "Bellflower",
+    "county": "Los Angeles",
+    "pop": 77195
+  },
+  {
+    "zip": 91706,
+    "city": "Baldwin Park",
+    "county": "Los Angeles",
+    "pop": 76930
+  },
+  {
+    "zip": 10029,
+    "city": "New York",
+    "county": "New York",
+    "pop": 76713
+  },
+  {
+    "zip": 93257,
+    "city": "Porterville",
+    "county": "Tulare",
+    "pop": 76519
+  },
+  {
+    "zip": 78245,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 76518
+  },
+  {
+    "zip": 33024,
+    "city": "Hollywood",
+    "county": "Broward",
+    "pop": 76508
+  },
+  {
+    "zip": 23464,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach City",
+    "pop": 76421
+  },
+  {
+    "zip": 11204,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 76395
+  },
+  {
+    "zip": 92553,
+    "city": "Moreno Valley",
+    "county": "Riverside",
+    "pop": 76102
+  },
+  {
+    "zip": 11203,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 76085
+  },
+  {
+    "zip": 33311,
+    "city": "Fort Lauderdale",
+    "county": "Broward",
+    "pop": 76073
+  },
+  {
+    "zip": 37211,
+    "city": "Nashville",
+    "county": "Davidson",
+    "pop": 75955
+  },
+  {
+    "zip": 94533,
+    "city": "Fairfield",
+    "county": "Solano",
+    "pop": 75909
+  },
+  {
+    "zip": 10462,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 75714
+  },
+  {
+    "zip": 11212,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 75605
+  },
+  {
+    "zip": 75035,
+    "city": "Frisco",
+    "county": "Collin",
+    "pop": 75485
+  },
+  {
+    "zip": 10452,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 75452
+  },
+  {
+    "zip": 63376,
+    "city": "Saint Peters",
+    "county": "Saint Charles",
+    "pop": 75395
+  },
+  {
+    "zip": 60634,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 75082
+  },
+  {
+    "zip": 10466,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 75039
+  },
+  {
+    "zip": 90255,
+    "city": "Huntington Park",
+    "county": "Los Angeles",
+    "pop": 75019
+  },
+  {
+    "zip": 91910,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 74855
+  },
+  {
+    "zip": 94536,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 74837
+  },
+  {
+    "zip": 10457,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 74822
+  },
+  {
+    "zip": 60505,
+    "city": "Aurora",
+    "county": "Kane",
+    "pop": 74726
+  },
+  {
+    "zip": 94587,
+    "city": "Union City",
+    "county": "Alameda",
+    "pop": 74722
+  },
+  {
+    "zip": 96706,
+    "city": "Ewa Beach",
+    "county": "Honolulu",
+    "pop": 74592
+  },
+  {
+    "zip": 30349,
+    "city": "Atlanta",
+    "county": "Fulton",
+    "pop": 74590
+  },
+  {
+    "zip": 10002,
+    "city": "New York",
+    "county": "New York",
+    "pop": 74479
+  },
+  {
+    "zip": 92805,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 74478
+  },
+  {
+    "zip": 77036,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 74472
+  },
+  {
+    "zip": 85364,
+    "city": "Yuma",
+    "county": "Yuma",
+    "pop": 74333
+  },
+  {
+    "zip": 93535,
+    "city": "Lancaster",
+    "county": "Los Angeles",
+    "pop": 74264
+  },
+  {
+    "zip": 80013,
+    "city": "Aurora",
+    "county": "Arapahoe",
+    "pop": 74105
+  },
+  {
+    "zip": 97006,
+    "city": "Beaverton",
+    "county": "Washington",
+    "pop": 74070
+  },
+  {
+    "zip": 19120,
+    "city": "Philadelphia",
+    "county": "Philadelphia",
+    "pop": 74060
+  },
+  {
+    "zip": 93274,
+    "city": "Tulare",
+    "county": "Tulare",
+    "pop": 74000
+  },
+  {
+    "zip": 89108,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "pop": 73991
+  },
+  {
+    "zip": 75228,
+    "city": "Dallas",
+    "county": "Dallas",
+    "pop": 73976
+  },
+  {
+    "zip": 33023,
+    "city": "Hollywood",
+    "county": "Broward",
+    "pop": 73973
+  },
+  {
+    "zip": 33012,
+    "city": "Hialeah",
+    "county": "Miami-Dade",
+    "pop": 73828
+  },
+  {
+    "zip": 90003,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 73730
+  },
+  {
+    "zip": 77450,
+    "city": "Katy",
+    "county": "Harris",
+    "pop": 73692
+  },
+  {
+    "zip": 92105,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 73623
+  },
+  {
+    "zip": 96797,
+    "city": "Waipahu",
+    "county": "Honolulu",
+    "pop": 73579
+  },
+  {
+    "zip": 33025,
+    "city": "Hollywood",
+    "county": "Broward",
+    "pop": 73428
+  },
+  {
+    "zip": 92882,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 73250
+  },
+  {
+    "zip": 76063,
+    "city": "Mansfield",
+    "county": "Tarrant",
+    "pop": 73216
+  },
+  {
+    "zip": 85032,
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "pop": 73203
+  },
+  {
+    "zip": 11375,
+    "city": "Forest Hills",
+    "county": "Queens",
+    "pop": 73034
+  },
+  {
+    "zip": 949,
+    "city": "Toa Baja",
+    "county": "Toa Baja",
+    "pop": 72943
+  },
+  {
+    "zip": 30040,
+    "city": "Cumming",
+    "county": "Forsyth",
+    "pop": 72909
+  },
+  {
+    "zip": 77459,
+    "city": "Missouri City",
+    "county": "Fort Bend",
+    "pop": 72788
+  },
+  {
+    "zip": 33411,
+    "city": "West Palm Beach",
+    "county": "Palm Beach",
+    "pop": 72546
+  },
+  {
+    "zip": 11218,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 72413
+  },
+  {
+    "zip": 91730,
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "pop": 72407
+  },
+  {
+    "zip": 10469,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 72384
+  },
+  {
+    "zip": 94110,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 72380
+  },
+  {
+    "zip": 91766,
+    "city": "Pomona",
+    "county": "Los Angeles",
+    "pop": 72348
+  },
+  {
+    "zip": 97007,
+    "city": "Beaverton",
+    "county": "Washington",
+    "pop": 72299
+  },
+  {
+    "zip": 93306,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 72280
+  },
+  {
+    "zip": 28277,
+    "city": "Charlotte",
+    "county": "Mecklenburg",
+    "pop": 72132
+  },
+  {
+    "zip": 78641,
+    "city": "Leander",
+    "county": "Williamson",
+    "pop": 72078
+  },
+  {
+    "zip": 91402,
+    "city": "Panorama City",
+    "county": "Los Angeles",
+    "pop": 72059
+  },
+  {
+    "zip": 60614,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 71954
+  },
+  {
+    "zip": 93065,
+    "city": "Simi Valley",
+    "county": "Ventura",
+    "pop": 71832
+  },
+  {
+    "zip": 89110,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "pop": 71489
+  },
+  {
+    "zip": 84095,
+    "city": "South Jordan",
+    "county": "Salt Lake",
+    "pop": 71427
+  },
+  {
+    "zip": 85142,
+    "city": "Queen Creek",
+    "county": "Maricopa",
+    "pop": 71423
+  },
+  {
+    "zip": 84118,
+    "city": "Salt Lake City",
+    "county": "Salt Lake",
+    "pop": 71309
+  },
+  {
+    "zip": 75002,
+    "city": "Allen",
+    "county": "Collin",
+    "pop": 71253
+  },
+  {
+    "zip": 45011,
+    "city": "Hamilton",
+    "county": "Butler",
+    "pop": 71189
+  },
+  {
+    "zip": 953,
+    "city": "Toa Alta",
+    "county": "Toa Alta",
+    "pop": 71174
+  },
+  {
+    "zip": 10463,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 71132
+  },
+  {
+    "zip": 22191,
+    "city": "Woodbridge",
+    "county": "Prince William",
+    "pop": 71019
+  },
+  {
+    "zip": 33647,
+    "city": "Tampa",
+    "county": "Hillsborough",
+    "pop": 71004
+  },
+  {
+    "zip": 78046,
+    "city": "Laredo",
+    "county": "Webb",
+    "pop": 70989
+  },
+  {
+    "zip": 60657,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 70958
+  },
+  {
+    "zip": 20906,
+    "city": "Silver Spring",
+    "county": "Montgomery",
+    "pop": 70749
+  },
+  {
+    "zip": 34953,
+    "city": "Port Saint Lucie",
+    "county": "Saint Lucie",
+    "pop": 70705
+  },
+  {
+    "zip": 60085,
+    "city": "Waukegan",
+    "county": "Lake",
+    "pop": 70700
+  },
+  {
+    "zip": 77095,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 70692
+  },
+  {
+    "zip": 80219,
+    "city": "Denver",
+    "county": "Denver",
+    "pop": 70638
+  },
+  {
+    "zip": 90262,
+    "city": "Lynwood",
+    "county": "Los Angeles",
+    "pop": 70536
+  },
+  {
+    "zip": 76028,
+    "city": "Burleson",
+    "county": "Johnson",
+    "pop": 70507
+  },
+  {
+    "zip": 73099,
+    "city": "Yukon",
+    "county": "Canadian",
+    "pop": 70417
+  },
+  {
+    "zip": 85225,
+    "city": "Chandler",
+    "county": "Maricopa",
+    "pop": 70356
+  },
+  {
+    "zip": 19124,
+    "city": "Philadelphia",
+    "county": "Philadelphia",
+    "pop": 70304
+  },
+  {
+    "zip": 30127,
+    "city": "Powder Springs",
+    "county": "Cobb",
+    "pop": 70298
+  },
+  {
+    "zip": 98052,
+    "city": "Redmond",
+    "county": "King",
+    "pop": 70245
+  },
+  {
+    "zip": 93536,
+    "city": "Lancaster",
+    "county": "Los Angeles",
+    "pop": 70237
+  },
+  {
+    "zip": 92021,
+    "city": "El Cajon",
+    "county": "San Diego",
+    "pop": 70148
+  },
+  {
+    "zip": 7055,
+    "city": "Passaic",
+    "county": "Passaic",
+    "pop": 70090
+  },
+  {
+    "zip": 34787,
+    "city": "Winter Garden",
+    "county": "Orange",
+    "pop": 69976
+  },
+  {
+    "zip": 6902,
+    "city": "Stamford",
+    "county": "Fairfield",
+    "pop": 69946
+  },
+  {
+    "zip": 60641,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 69880
+  },
+  {
+    "zip": 11215,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 69873
+  },
+  {
+    "zip": 20011,
+    "city": "Washington",
+    "county": "District Of Columbia",
+    "pop": 69710
+  },
+  {
+    "zip": 92880,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 69656
+  },
+  {
+    "zip": 97701,
+    "city": "Bend",
+    "county": "Deschutes",
+    "pop": 69499
+  },
+  {
+    "zip": 32828,
+    "city": "Orlando",
+    "county": "Orange",
+    "pop": 69497
+  },
+  {
+    "zip": 80015,
+    "city": "Aurora",
+    "county": "Arapahoe",
+    "pop": 69487
+  },
+  {
+    "zip": 92563,
+    "city": "Murrieta",
+    "county": "Riverside",
+    "pop": 69469
+  },
+  {
+    "zip": 97229,
+    "city": "Portland",
+    "county": "Washington",
+    "pop": 69450
+  },
+  {
+    "zip": 60640,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 69363
+  },
+  {
+    "zip": 80134,
+    "city": "Parker",
+    "county": "Douglas",
+    "pop": 69163
+  },
+  {
+    "zip": 30041,
+    "city": "Cumming",
+    "county": "Forsyth",
+    "pop": 69117
+  },
+  {
+    "zip": 92703,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 69112
+  },
+  {
+    "zip": 90631,
+    "city": "La Habra",
+    "county": "Orange",
+    "pop": 69064
+  },
+  {
+    "zip": 95687,
+    "city": "Vacaville",
+    "county": "Solano",
+    "pop": 69060
+  },
+  {
+    "zip": 30022,
+    "city": "Alpharetta",
+    "county": "Fulton",
+    "pop": 68945
+  },
+  {
+    "zip": 90026,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 68906
+  },
+  {
+    "zip": 92114,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 68851
+  },
+  {
+    "zip": 87114,
+    "city": "Albuquerque",
+    "county": "Bernalillo",
+    "pop": 68789
+  },
+  {
+    "zip": 95123,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 68766
+  },
+  {
+    "zip": 28027,
+    "city": "Concord",
+    "county": "Cabarrus",
+    "pop": 68716
+  },
+  {
+    "zip": 30096,
+    "city": "Duluth",
+    "county": "Gwinnett",
+    "pop": 68691
+  },
+  {
+    "zip": 33186,
+    "city": "Miami",
+    "county": "Miami-Dade",
+    "pop": 68581
+  },
+  {
+    "zip": 85301,
+    "city": "Glendale",
+    "county": "Maricopa",
+    "pop": 68579
+  },
+  {
+    "zip": 30052,
+    "city": "Loganville",
+    "county": "Gwinnett",
+    "pop": 68563
+  },
+  {
+    "zip": 92407,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 68545
+  },
+  {
+    "zip": 11691,
+    "city": "Far Rockaway",
+    "county": "Queens",
+    "pop": 68543
+  },
+  {
+    "zip": 27587,
+    "city": "Wake Forest",
+    "county": "Wake",
+    "pop": 68491
+  },
+  {
+    "zip": 30281,
+    "city": "Stockbridge",
+    "county": "Henry",
+    "pop": 68456
+  },
+  {
+    "zip": 11706,
+    "city": "Bay Shore",
+    "county": "Suffolk",
+    "pop": 68401
+  },
+  {
+    "zip": 21234,
+    "city": "Parkville",
+    "county": "Baltimore",
+    "pop": 68381
+  },
+  {
+    "zip": 94558,
+    "city": "Napa",
+    "county": "Napa",
+    "pop": 68315
+  },
+  {
+    "zip": 75243,
+    "city": "Dallas",
+    "county": "Dallas",
+    "pop": 68308
+  },
+  {
+    "zip": 7087,
+    "city": "Union City",
+    "county": "Hudson",
+    "pop": 68256
+  },
+  {
+    "zip": 75067,
+    "city": "Lewisville",
+    "county": "Denton",
+    "pop": 68196
+  },
+  {
+    "zip": 94509,
+    "city": "Antioch",
+    "county": "Contra Costa",
+    "pop": 68166
+  },
+  {
+    "zip": 19111,
+    "city": "Philadelphia",
+    "county": "Philadelphia",
+    "pop": 68113
+  },
+  {
+    "zip": 48197,
+    "city": "Ypsilanti",
+    "county": "Washtenaw",
+    "pop": 68108
+  },
+  {
+    "zip": 10472,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 67948
+  },
+  {
+    "zip": 85204,
+    "city": "Mesa",
+    "county": "Maricopa",
+    "pop": 67924
+  },
+  {
+    "zip": 11746,
+    "city": "Huntington Station",
+    "county": "Suffolk",
+    "pop": 67863
+  },
+  {
+    "zip": 11209,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 67782
+  },
+  {
+    "zip": 20002,
+    "city": "Washington",
+    "county": "District Of Columbia",
+    "pop": 67750
+  },
+  {
+    "zip": 89031,
+    "city": "North Las Vegas",
+    "county": "Clark",
+    "pop": 67750
+  },
+  {
+    "zip": 60620,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 67711
+  },
+  {
+    "zip": 30135,
+    "city": "Douglasville",
+    "county": "Douglas",
+    "pop": 67710
+  },
+  {
+    "zip": 90037,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 67640
+  },
+  {
+    "zip": 93230,
+    "city": "Hanford",
+    "county": "Kings",
+    "pop": 67605
+  },
+  {
+    "zip": 94080,
+    "city": "South San Francisco",
+    "county": "San Mateo",
+    "pop": 67600
+  },
+  {
+    "zip": 94538,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 67474
+  },
+  {
+    "zip": 33157,
+    "city": "Miami",
+    "county": "Miami-Dade",
+    "pop": 67455
+  },
+  {
+    "zip": 98012,
+    "city": "Bothell",
+    "county": "Snohomish",
+    "pop": 67427
+  },
+  {
+    "zip": 78596,
+    "city": "Weslaco",
+    "county": "Hidalgo",
+    "pop": 67269
+  },
+  {
+    "zip": 33015,
+    "city": "Hialeah",
+    "county": "Miami-Dade",
+    "pop": 67191
+  },
+  {
+    "zip": 11213,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 67056
+  },
+  {
+    "zip": 90022,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 67014
+  },
+  {
+    "zip": 95747,
+    "city": "Roseville",
+    "county": "Placer",
+    "pop": 66931
+  },
+  {
+    "zip": 85281,
+    "city": "Tempe",
+    "county": "Maricopa",
+    "pop": 66833
+  },
+  {
+    "zip": 77346,
+    "city": "Humble",
+    "county": "Harris",
+    "pop": 66805
+  },
+  {
+    "zip": 91343,
+    "city": "North Hills",
+    "county": "Los Angeles",
+    "pop": 66743
+  },
+  {
+    "zip": 85308,
+    "city": "Glendale",
+    "county": "Maricopa",
+    "pop": 66706
+  },
+  {
+    "zip": 78045,
+    "city": "Laredo",
+    "county": "Webb",
+    "pop": 66685
+  },
+  {
+    "zip": 30331,
+    "city": "Atlanta",
+    "county": "Fulton",
+    "pop": 66658
+  },
+  {
+    "zip": 77845,
+    "city": "College Station",
+    "county": "Brazos",
+    "pop": 66649
+  },
+  {
+    "zip": 92801,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 66594
+  },
+  {
+    "zip": 84015,
+    "city": "Clearfield",
+    "county": "Davis",
+    "pop": 66410
+  },
+  {
+    "zip": 92677,
+    "city": "Laguna Niguel",
+    "county": "Orange",
+    "pop": 66314
+  },
+  {
+    "zip": 95127,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 66256
+  },
+  {
+    "zip": 10977,
+    "city": "Spring Valley",
+    "county": "Rockland",
+    "pop": 66138
+  },
+  {
+    "zip": 75068,
+    "city": "Little Elm",
+    "county": "Denton",
+    "pop": 65991
+  },
+  {
+    "zip": 37075,
+    "city": "Hendersonville",
+    "county": "Sumner",
+    "pop": 65986
+  },
+  {
+    "zip": 95624,
+    "city": "Elk Grove",
+    "county": "Sacramento",
+    "pop": 65948
+  },
+  {
+    "zip": 30047,
+    "city": "Lilburn",
+    "county": "Gwinnett",
+    "pop": 65937
+  },
+  {
+    "zip": 94541,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 65928
+  },
+  {
+    "zip": 23462,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach City",
+    "pop": 65906
+  },
+  {
+    "zip": 95758,
+    "city": "Elk Grove",
+    "county": "Sacramento",
+    "pop": 65811
+  },
+  {
+    "zip": 30062,
+    "city": "Marietta",
+    "county": "Cobb",
+    "pop": 65801
+  },
+  {
+    "zip": 92201,
+    "city": "Indio",
+    "county": "Riverside",
+    "pop": 65726
+  },
+  {
+    "zip": 43123,
+    "city": "Grove City",
+    "county": "Franklin",
+    "pop": 65577
+  },
+  {
+    "zip": 76179,
+    "city": "Fort Worth",
+    "county": "Tarrant",
+    "pop": 65496
+  },
+  {
+    "zip": 30004,
+    "city": "Alpharetta",
+    "county": "Fulton",
+    "pop": 65294
+  },
+  {
+    "zip": 7002,
+    "city": "Bayonne",
+    "county": "Hudson",
+    "pop": 65091
+  },
+  {
+    "zip": 94015,
+    "city": "Daly City",
+    "county": "San Mateo",
+    "pop": 65041
+  },
+  {
+    "zip": 7305,
+    "city": "Jersey City",
+    "county": "Hudson",
+    "pop": 64994
+  },
+  {
+    "zip": 10027,
+    "city": "New York",
+    "county": "New York",
+    "pop": 64988
+  },
+  {
+    "zip": 23322,
+    "city": "Chesapeake",
+    "county": "Chesapeake City",
+    "pop": 64972
+  },
+  {
+    "zip": 30188,
+    "city": "Woodstock",
+    "county": "Cherokee",
+    "pop": 64836
+  },
+  {
+    "zip": 95020,
+    "city": "Gilroy",
+    "county": "Santa Clara",
+    "pop": 64833
+  },
+  {
+    "zip": 85033,
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "pop": 64832
+  },
+  {
+    "zip": 66061,
+    "city": "Olathe",
+    "county": "Johnson",
+    "pop": 64791
+  },
+  {
+    "zip": 91977,
+    "city": "Spring Valley",
+    "county": "San Diego",
+    "pop": 64750
+  },
+  {
+    "zip": 78664,
+    "city": "Round Rock",
+    "county": "Williamson",
+    "pop": 64686
+  },
+  {
+    "zip": 11210,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 64665
+  },
+  {
+    "zip": 19143,
+    "city": "Philadelphia",
+    "county": "Philadelphia",
+    "pop": 64630
+  },
+  {
+    "zip": 90019,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 64534
+  },
+  {
+    "zip": 84043,
+    "city": "Lehi",
+    "county": "Utah",
+    "pop": 64478
+  },
+  {
+    "zip": 93906,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 64348
+  },
+  {
+    "zip": 92115,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 64343
+  },
+  {
+    "zip": 94513,
+    "city": "Brentwood",
+    "county": "Contra Costa",
+    "pop": 64313
+  },
+  {
+    "zip": 11434,
+    "city": "Jamaica",
+    "county": "Queens",
+    "pop": 64304
+  },
+  {
+    "zip": 11432,
+    "city": "Jamaica",
+    "county": "Queens",
+    "pop": 64299
+  },
+  {
+    "zip": 92562,
+    "city": "Murrieta",
+    "county": "Riverside",
+    "pop": 64286
+  },
+  {
+    "zip": 94806,
+    "city": "San Pablo",
+    "county": "Contra Costa",
+    "pop": 64286
+  },
+  {
+    "zip": 32765,
+    "city": "Oviedo",
+    "county": "Seminole",
+    "pop": 64268
+  },
+  {
+    "zip": 60628,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 64254
+  },
+  {
+    "zip": 95206,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 64250
+  },
+  {
+    "zip": 17603,
+    "city": "Lancaster",
+    "county": "Lancaster",
+    "pop": 64242
+  },
+  {
+    "zip": 14850,
+    "city": "Ithaca",
+    "county": "Tompkins",
+    "pop": 64221
+  },
+  {
+    "zip": 84404,
+    "city": "Ogden",
+    "county": "Weber",
+    "pop": 64093
+  },
+  {
+    "zip": 99654,
+    "city": "Wasilla",
+    "county": "Matanuska Susitna",
+    "pop": 64062
+  },
+  {
+    "zip": 32218,
+    "city": "Jacksonville",
+    "county": "Duval",
+    "pop": 64007
+  },
+  {
+    "zip": 7093,
+    "city": "West New York",
+    "county": "Hudson",
+    "pop": 63979
+  },
+  {
+    "zip": 83646,
+    "city": "Meridian",
+    "county": "Ada",
+    "pop": 63945
+  },
+  {
+    "zip": 87120,
+    "city": "Albuquerque",
+    "county": "Bernalillo",
+    "pop": 63884
+  },
+  {
+    "zip": 20147,
+    "city": "Ashburn",
+    "county": "Loudoun",
+    "pop": 63878
+  },
+  {
+    "zip": 92346,
+    "city": "Highland",
+    "county": "San Bernardino",
+    "pop": 63857
+  },
+  {
+    "zip": 20019,
+    "city": "Washington",
+    "county": "District Of Columbia",
+    "pop": 63829
+  },
+  {
+    "zip": 94501,
+    "city": "Alameda",
+    "county": "Alameda",
+    "pop": 63821
+  },
+  {
+    "zip": 43081,
+    "city": "Westerville",
+    "county": "Franklin",
+    "pop": 63604
+  },
+  {
+    "zip": 33463,
+    "city": "Lake Worth",
+    "county": "Palm Beach",
+    "pop": 63577
+  },
+  {
+    "zip": 44256,
+    "city": "Medina",
+    "county": "Medina",
+    "pop": 63497
+  },
+  {
+    "zip": 60651,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 63492
+  },
+  {
+    "zip": 11717,
+    "city": "Brentwood",
+    "county": "Suffolk",
+    "pop": 63492
+  },
+  {
+    "zip": 2301,
+    "city": "Brockton",
+    "county": "Plymouth",
+    "pop": 63420
+  },
+  {
+    "zip": 8753,
+    "city": "Toms River",
+    "county": "Ocean",
+    "pop": 63415
+  },
+  {
+    "zip": 11201,
+    "city": "Brooklyn",
+    "county": "Kings",
+    "pop": 63378
+  },
+  {
+    "zip": 44035,
+    "city": "Elyria",
+    "county": "Lorain",
+    "pop": 63333
+  },
+  {
+    "zip": 85326,
+    "city": "Buckeye",
+    "county": "Maricopa",
+    "pop": 63317
+  },
+  {
+    "zip": 956,
+    "city": "Bayamon",
+    "county": "Bayamon",
+    "pop": 63264
+  },
+  {
+    "zip": 10032,
+    "city": "New York",
+    "county": "New York",
+    "pop": 63214
+  },
+  {
+    "zip": 27406,
+    "city": "Greensboro",
+    "county": "Guilford",
+    "pop": 63199
+  },
+  {
+    "zip": 90042,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 63193
+  },
+  {
+    "zip": 89121,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "pop": 63190
+  },
+  {
+    "zip": 92627,
+    "city": "Costa Mesa",
+    "county": "Orange",
+    "pop": 63161
+  },
+  {
+    "zip": 89115,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "pop": 63084
+  },
+  {
+    "zip": 78501,
+    "city": "Mcallen",
+    "county": "Hidalgo",
+    "pop": 63066
+  },
+  {
+    "zip": 43026,
+    "city": "Hilliard",
+    "county": "Franklin",
+    "pop": 63047
+  },
+  {
+    "zip": 20878,
+    "city": "Gaithersburg",
+    "county": "Montgomery",
+    "pop": 63030
+  },
+  {
+    "zip": 90660,
+    "city": "Pico Rivera",
+    "county": "Los Angeles",
+    "pop": 63001
+  },
+  {
+    "zip": 60402,
+    "city": "Berwyn",
+    "county": "Cook",
+    "pop": 62960
+  },
+  {
+    "zip": 92404,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 62915
+  },
+  {
+    "zip": 91732,
+    "city": "El Monte",
+    "county": "Los Angeles",
+    "pop": 62905
+  },
+  {
+    "zip": 91950,
+    "city": "National City",
+    "county": "San Diego",
+    "pop": 62859
+  },
+  {
+    "zip": 11372,
+    "city": "Jackson Heights",
+    "county": "Queens",
+    "pop": 62854
+  },
+  {
+    "zip": 33313,
+    "city": "Fort Lauderdale",
+    "county": "Broward",
+    "pop": 62842
+  },
+  {
+    "zip": 46307,
+    "city": "Crown Point",
+    "county": "Lake",
+    "pop": 62779
+  },
+  {
+    "zip": 90640,
+    "city": "Montebello",
+    "county": "Los Angeles",
+    "pop": 62730
+  },
+  {
+    "zip": 91770,
+    "city": "Rosemead",
+    "county": "Los Angeles",
+    "pop": 62703
+  },
+  {
+    "zip": 43055,
+    "city": "Newark",
+    "county": "Licking",
+    "pop": 62666
+  },
+  {
+    "zip": 74012,
+    "city": "Broken Arrow",
+    "county": "Tulsa",
+    "pop": 62622
+  },
+  {
+    "zip": 78574,
+    "city": "Mission",
+    "county": "Hidalgo",
+    "pop": 62616
+  },
+  {
+    "zip": 75043,
+    "city": "Garland",
+    "county": "Dallas",
+    "pop": 62601
+  },
+  {
+    "zip": 28215,
+    "city": "Charlotte",
+    "county": "Mecklenburg",
+    "pop": 62543
+  },
+  {
+    "zip": 10023,
+    "city": "New York",
+    "county": "New York",
+    "pop": 62541
+  },
+  {
+    "zip": 95608,
+    "city": "Carmichael",
+    "county": "Sacramento",
+    "pop": 62539
+  },
+  {
+    "zip": 78520,
+    "city": "Brownsville",
+    "county": "Cameron",
+    "pop": 62490
+  },
+  {
+    "zip": 75040,
+    "city": "Garland",
+    "county": "Dallas",
+    "pop": 62417
+  },
+  {
+    "zip": 78228,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 62359
+  },
+  {
+    "zip": 85008,
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "pop": 62340
+  },
+  {
+    "zip": 40475,
+    "city": "Richmond",
+    "county": "Madison",
+    "pop": 62250
+  },
+  {
+    "zip": 95112,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 62228
+  },
+  {
+    "zip": 92647,
+    "city": "Huntington Beach",
+    "county": "Orange",
+    "pop": 62199
+  },
+  {
+    "zip": 78251,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 62186
+  },
+  {
+    "zip": 85041,
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "pop": 62152
+  },
+  {
+    "zip": 94122,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 62128
+  },
+  {
+    "zip": 19134,
+    "city": "Philadelphia",
+    "county": "Philadelphia",
+    "pop": 62087
+  },
+  {
+    "zip": 91702,
+    "city": "Azusa",
+    "county": "Los Angeles",
+    "pop": 62066
+  },
+  {
+    "zip": 32210,
+    "city": "Jacksonville",
+    "county": "Duval",
+    "pop": 62048
+  },
+  {
+    "zip": 78745,
+    "city": "Austin",
+    "county": "Travis",
+    "pop": 61907
+  },
+  {
+    "zip": 95014,
+    "city": "Cupertino",
+    "county": "Santa Clara",
+    "pop": 61866
+  },
+  {
+    "zip": 95111,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 61830
+  },
+  {
+    "zip": 38401,
+    "city": "Columbia",
+    "county": "Maury",
+    "pop": 61787
+  },
+  {
+    "zip": 42101,
+    "city": "Bowling Green",
+    "county": "Warren",
+    "pop": 61768
+  },
+  {
+    "zip": 21740,
+    "city": "Hagerstown",
+    "county": "Washington",
+    "pop": 61768
+  },
+  {
+    "zip": 32822,
+    "city": "Orlando",
+    "county": "Orange",
+    "pop": 61760
+  },
+  {
+    "zip": 91762,
+    "city": "Ontario",
+    "county": "San Bernardino",
+    "pop": 61718
+  },
+  {
+    "zip": 78250,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 61669
+  },
+  {
+    "zip": 78249,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 61639
+  },
+  {
+    "zip": 93312,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 61628
+  },
+  {
+    "zip": 7047,
+    "city": "North Bergen",
+    "county": "Hudson",
+    "pop": 61619
+  },
+  {
+    "zip": 10701,
+    "city": "Yonkers",
+    "county": "Westchester",
+    "pop": 61604
+  },
+  {
+    "zip": 34711,
+    "city": "Clermont",
+    "county": "Lake",
+    "pop": 61594
+  },
+  {
+    "zip": 60073,
+    "city": "Round Lake",
+    "county": "Lake",
+    "pop": 61592
+  },
+  {
+    "zip": 43130,
+    "city": "Lancaster",
+    "county": "Fairfield",
+    "pop": 61565
+  },
+  {
+    "zip": 77373,
+    "city": "Spring",
+    "county": "Harris",
+    "pop": 61501
+  },
+  {
+    "zip": 91761,
+    "city": "Ontario",
+    "county": "San Bernardino",
+    "pop": 61425
+  },
+  {
+    "zip": 10312,
+    "city": "Staten Island",
+    "county": "Richmond",
+    "pop": 61392
+  },
+  {
+    "zip": 48180,
+    "city": "Taylor",
+    "county": "Wayne",
+    "pop": 61379
+  },
+  {
+    "zip": 33414,
+    "city": "West Palm Beach",
+    "county": "Palm Beach",
+    "pop": 61323
+  },
+  {
+    "zip": 33064,
+    "city": "Pompano Beach",
+    "county": "Broward",
+    "pop": 61293
+  },
+  {
+    "zip": 32825,
+    "city": "Orlando",
+    "county": "Orange",
+    "pop": 61289
+  },
+  {
+    "zip": 60619,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 61207
+  },
+  {
+    "zip": 33125,
+    "city": "Miami",
+    "county": "Miami-Dade",
+    "pop": 61156
+  },
+  {
+    "zip": 77072,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 61122
+  },
+  {
+    "zip": 20874,
+    "city": "Germantown",
+    "county": "Montgomery",
+    "pop": 61087
+  },
+  {
+    "zip": 21122,
+    "city": "Pasadena",
+    "county": "Anne Arundel",
+    "pop": 61051
+  },
+  {
+    "zip": 28078,
+    "city": "Huntersville",
+    "county": "Mecklenburg",
+    "pop": 61043
+  },
+  {
+    "zip": 2148,
+    "city": "Malden",
+    "county": "Middlesex",
+    "pop": 60984
+  },
+  {
+    "zip": 60609,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 60939
+  },
+  {
+    "zip": 78240,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 60927
+  },
+  {
+    "zip": 29072,
+    "city": "Lexington",
+    "county": "Lexington",
+    "pop": 60908
+  },
+  {
+    "zip": 98682,
+    "city": "Vancouver",
+    "county": "Clark",
+    "pop": 60887
+  },
+  {
+    "zip": 92707,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 60831
+  },
+  {
+    "zip": 92570,
+    "city": "Perris",
+    "county": "Riverside",
+    "pop": 60686
+  },
+  {
+    "zip": 33027,
+    "city": "Hollywood",
+    "county": "Broward",
+    "pop": 60679
+  },
+  {
+    "zip": 89123,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "pop": 60679
+  },
+  {
+    "zip": 75150,
+    "city": "Mesquite",
+    "county": "Dallas",
+    "pop": 60671
+  },
+  {
+    "zip": 90731,
+    "city": "San Pedro",
+    "county": "Los Angeles",
+    "pop": 60659
+  },
+  {
+    "zip": 75056,
+    "city": "The Colony",
+    "county": "Denton",
+    "pop": 60554
+  },
+  {
+    "zip": 90004,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 60541
+  },
+  {
+    "zip": 37129,
+    "city": "Murfreesboro",
+    "county": "Rutherford",
+    "pop": 60540
+  },
+  {
+    "zip": 93905,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 60531
+  },
+  {
+    "zip": 78753,
+    "city": "Austin",
+    "county": "Travis",
+    "pop": 60426
+  },
+  {
+    "zip": 92057,
+    "city": "Oceanside",
+    "county": "San Diego",
+    "pop": 60414
+  },
+  {
+    "zip": 76137,
+    "city": "Fort Worth",
+    "county": "Tarrant",
+    "pop": 60385
+  },
+  {
+    "zip": 29681,
+    "city": "Simpsonville",
+    "county": "Greenville",
+    "pop": 60303
+  },
+  {
+    "zip": 6010,
+    "city": "Bristol",
+    "county": "Hartford",
+    "pop": 60218
+  },
+  {
+    "zip": 77521,
+    "city": "Baytown",
+    "county": "Harris",
+    "pop": 60164
+  },
+  {
+    "zip": 44060,
+    "city": "Mentor",
+    "county": "Lake",
+    "pop": 60134
+  },
+  {
+    "zip": 76010,
+    "city": "Arlington",
+    "county": "Tarrant",
+    "pop": 60097
+  },
+  {
+    "zip": 29485,
+    "city": "Summerville",
+    "county": "Dorchester",
+    "pop": 60028
+  },
+  {
+    "zip": 53215,
+    "city": "Milwaukee",
+    "county": "Milwaukee",
+    "pop": 60010
+  },
+  {
+    "zip": 77407,
+    "city": "Richmond",
+    "county": "Fort Bend County",
+    "pop": 60000
+  },
+  {
+    "zip": 92324,
+    "city": "Colton",
+    "county": "San Bernardino",
+    "pop": 59972
+  },
+  {
+    "zip": 75227,
+    "city": "Dallas",
+    "county": "Dallas",
+    "pop": 59924
+  },
+  {
+    "zip": 92504,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 59896
+  },
+  {
+    "zip": 95051,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "pop": 59851
+  },
+  {
+    "zip": 90001,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59832
+  },
+  {
+    "zip": 2360,
+    "city": "Plymouth",
+    "county": "Plymouth",
+    "pop": 59826
+  },
+  {
+    "zip": 30263,
+    "city": "Newnan",
+    "county": "Coweta",
+    "pop": 59799
+  },
+  {
+    "zip": 30058,
+    "city": "Lithonia",
+    "county": "Dekalb",
+    "pop": 59751
+  },
+  {
+    "zip": 92020,
+    "city": "El Cajon",
+    "county": "San Diego",
+    "pop": 59743
+  },
+  {
+    "zip": 2155,
+    "city": "Medford",
+    "county": "Middlesex",
+    "pop": 59735
+  },
+  {
+    "zip": 80634,
+    "city": "Greeley",
+    "county": "Weld",
+    "pop": 59702
+  },
+  {
+    "zip": 96818,
+    "city": "Honolulu",
+    "county": "Honolulu",
+    "pop": 59679
+  },
+  {
+    "zip": 19720,
+    "city": "New Castle",
+    "county": "New Castle",
+    "pop": 59664
+  },
+  {
+    "zip": 85035,
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "pop": 59660
+  },
+  {
+    "zip": 79924,
+    "city": "El Paso",
+    "county": "El Paso",
+    "pop": 59648
+  },
+  {
+    "zip": 95355,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 59621
+  },
+  {
+    "zip": 30906,
+    "city": "Augusta",
+    "county": "Richmond",
+    "pop": 59609
+  },
+  {
+    "zip": 11435,
+    "city": "Jamaica",
+    "county": "Queens",
+    "pop": 59605
+  },
+  {
+    "zip": 77077,
+    "city": "Houston",
+    "county": "Harris",
+    "pop": 59588
+  },
+  {
+    "zip": 10031,
+    "city": "New York",
+    "county": "New York",
+    "pop": 59586
+  },
+  {
+    "zip": 10473,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 59579
+  },
+  {
+    "zip": 90006,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59576
+  },
+  {
+    "zip": 28173,
+    "city": "Waxhaw",
+    "county": "Union",
+    "pop": 59559
+  },
+  {
+    "zip": 30101,
+    "city": "Acworth",
+    "county": "Cobb",
+    "pop": 59515
+  },
+  {
+    "zip": 37167,
+    "city": "Smyrna",
+    "county": "Rutherford",
+    "pop": 59514
+  },
+  {
+    "zip": 73160,
+    "city": "Oklahoma City",
+    "county": "Cleveland",
+    "pop": 59509
+  },
+  {
+    "zip": 92780,
+    "city": "Tustin",
+    "county": "Orange",
+    "pop": 59499
+  },
+  {
+    "zip": 10460,
+    "city": "Bronx",
+    "county": "Bronx",
+    "pop": 59432
+  },
+  {
+    "zip": 92630,
+    "city": "Lake Forest",
+    "county": "Orange",
+    "pop": 59403
+  },
+  {
+    "zip": 32244,
+    "city": "Jacksonville",
+    "county": "Duval",
+    "pop": 59402
+  },
+  {
+    "zip": 22003,
+    "city": "Annandale",
+    "county": "Fairfax",
+    "pop": 59375
+  },
+  {
+    "zip": 77840,
+    "city": "College Station",
+    "county": "Brazos",
+    "pop": 59371
+  },
+  {
+    "zip": 612,
+    "city": "Arecibo",
+    "county": "Arecibo",
+    "pop": 59369
+  },
+  {
+    "zip": 29445,
+    "city": "Goose Creek",
+    "county": "Berkeley",
+    "pop": 59342
+  },
+  {
+    "zip": 22030,
+    "city": "Fairfax",
+    "county": "Fairfax City",
+    "pop": 59332
+  },
+  {
+    "zip": 21117,
+    "city": "Owings Mills",
+    "county": "Baltimore",
+    "pop": 59301
+  },
+  {
+    "zip": 32808,
+    "city": "Orlando",
+    "county": "Orange",
+    "pop": 59291
+  },
+  {
+    "zip": 60016,
+    "city": "Des Plaines",
+    "county": "Cook",
+    "pop": 59291
+  },
+  {
+    "zip": 93291,
+    "city": "Visalia",
+    "county": "Tulare",
+    "pop": 59270
+  },
+  {
+    "zip": 27858,
+    "city": "Greenville",
+    "county": "Pitt",
+    "pop": 59182
+  },
+  {
+    "zip": 90066,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59167
+  },
+  {
+    "zip": 92507,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 59152
+  },
+  {
+    "zip": 43230,
+    "city": "Columbus",
+    "county": "Franklin",
+    "pop": 59111
+  },
+  {
+    "zip": 78254,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "pop": 59107
+  },
+  {
+    "zip": 33142,
+    "city": "Miami",
+    "county": "Miami-Dade",
+    "pop": 59073
+  },
+  {
+    "zip": 29732,
+    "city": "Rock Hill",
+    "county": "York",
+    "pop": 59059
+  },
+  {
+    "zip": 23452,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach City",
+    "pop": 58996
+  },
+  {
+    "zip": 37064,
+    "city": "Franklin",
+    "county": "Williamson",
+    "pop": 58937
+  },
+  {
+    "zip": 23454,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach City",
+    "pop": 58904
+  },
+  {
+    "zip": 33511,
+    "city": "Brandon",
+    "county": "Hillsborough",
+    "pop": 58833
+  },
+  {
+    "zip": 28314,
+    "city": "Fayetteville",
+    "county": "Cumberland",
+    "pop": 58827
+  },
+  {
+    "zip": 22407,
+    "city": "Fredericksburg",
+    "county": "Spotsylvania",
+    "pop": 58826
+  },
+  {
+    "zip": 31419,
+    "city": "Savannah",
+    "county": "Chatham",
+    "pop": 58800
+  },
+  {
+    "zip": 78640,
+    "city": "Kyle",
+    "county": "Hays",
+    "pop": 58790
+  },
+  {
+    "zip": 55106,
+    "city": "Saint Paul",
+    "county": "Ramsey",
+    "pop": 58771
+  },
+  {
+    "zip": 72401,
+    "city": "Jonesboro",
+    "county": "Craighead",
+    "pop": 58725
+  },
+  {
+    "zip": 85122,
+    "city": "Casa Grande",
+    "county": "Pinal",
+    "pop": 58724
+  },
+  {
+    "zip": 95828,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 58717
+  },
+  {
+    "zip": 33458,
+    "city": "Jupiter",
+    "county": "Palm Beach",
+    "pop": 58714
+  },
+  {
+    "zip": 22192,
+    "city": "Woodbridge",
+    "county": "Prince William",
+    "pop": 58690
+  },
+  {
+    "zip": 60638,
+    "city": "Chicago",
+    "county": "Cook",
+    "pop": 58669
+  },
+  {
+    "zip": 976,
+    "city": "Trujillo Alto",
+    "county": "Trujillo Alto",
+    "pop": 58640
+  },
+  {
+    "zip": 10128,
+    "city": "New York",
+    "county": "New York",
+    "pop": 58636
+  }
+]
