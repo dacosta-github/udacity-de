@@ -36,7 +36,7 @@ In this project, I applied what I've learned on data warehouses and AWS to build
 
 **Course Project 4**  - [Data Lake with Apache Spark and AWS S3](https://github.com/dacosta-github/udacity-de/tree/main/apache-spark-data-lake)
 
-In this project, I applied what learned on Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. To complete the project, I need to load data from S3, process the data into analytics tables using Spark, and load them back into S3. After, I deployed this Spark process on a cluster using AWS. I used the AWS SDK for Python. `... work in progress`
+In this project, I applied what learned on Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. To complete the project, I need to load data from S3, process the data into analytics tables using Spark, and load them back into S3. After, I deployed this Spark process on a cluster using AWS. I used the AWS SDK for Python.
 
 
 <br/>
@@ -46,7 +46,7 @@ In this project, I applied what learned on Spark and data lakes to build an ETL 
 
 **Course Project 5**  - [Data Pipelines with Apache Airflow](https://github.com/dacosta-github/udacity-de/tree/main/apache-airflow-data-pipelines)
 
-In this project, I applied what I've learned on Apache Airflow data pipelines. To complete the project, I need to create your own custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step. I used the AWS SDK for Python. `... work in progress`
+In this project, I applied what I've learned on Apache Airflow data pipelines. To complete the project, I need to create your own custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step. I used the AWS SDK for Python.
 
 
 <br/>
@@ -54,10 +54,9 @@ In this project, I applied what I've learned on Apache Airflow data pipelines. T
 
 ### Data Engineering Capstone
 
-**Capstone Project**  - [Data Platform for Analytics and Machine Learning ](https://github.com/dacosta-github/udacity-de/tree/main/capstone-project)
+**Capstone Project**  - [Data Platform for Analytics & Machine Learning - Financial companies complaints analysis](https://github.com/dacosta-github/udacity-de/tree/main/capstone-project)
 
-In this project, I applied what I've learned on Udacity Nanodegrees `... work in progress`
-
+In this project, I applied what I've learned on Udacity Nanodegrees.
 
 <br>
 
