@@ -327,14 +327,14 @@ The fact table is as follow:
 
 | Field | Description | Data Type | Key | Is Null | Reference|
 |-------|-------------|------|------|------|-----|
-|  received_date     | The date the CFPB received the complaint. For example, “05/25/2013.”            |  DATE    |   No   |   dim_dates (date)    |
-|  sent_date         | The date the CFPB sent the complaint to the company            |  DATE    |   No   |   dim_dates (date)   |
-|  complaint_pk      |  Foreign key of the dimension, with reference.           |  INT    |    No   |   dim_complaints (complaint_pk)  |
-|  company_pk        |  Foreign key of the dimension, with reference.           |  INT    |    No   |   dim_companies (company_pk)    |
-|  product_pk        |  Foreign key of the dimension, with reference.           |  INT    |    No   |   dim_products (product_pk)    |
-|  issue_pk          |  Foreign key of the dimension, with reference.           |  INT    |    No   |   dim_issues (issue_pk)    |
-|  tag_pk            |  Foreign key of the dimension, with reference.           |  INT    |    No   |   dim_tags (tag_pk)    |
-|  geography_pk      | Foreign key of the dimension, with reference.            |  INT    |    No   |   dim_geographies (geography_pk)   |
+|  received_date     | The date the CFPB received the complaint. For example, “05/25/2013.”            |  DATE    |   No   |  No   | dim_dates (date)    |
+|  sent_date         | The date the CFPB sent the complaint to the company            |  DATE    |   No   | No   |   dim_dates (date)   |
+|  complaint_pk      |  Foreign key of the dimension, with reference.           |  INT    |    No   |  No   |  dim_complaints (complaint_pk)  |
+|  company_pk        |  Foreign key of the dimension, with reference.           |  INT    |    No   | No   |  dim_companies (company_pk)    |
+|  product_pk        |  Foreign key of the dimension, with reference.           |  INT    |    No   |  No   | dim_products (product_pk)    |
+|  issue_pk          |  Foreign key of the dimension, with reference.           |  INT    |    No   | No   |  dim_issues (issue_pk)    |
+|  tag_pk            |  Foreign key of the dimension, with reference.           |  INT    |    No   | No   |  dim_tags (tag_pk)    |
+|  geography_pk      | Foreign key of the dimension, with reference.            |  INT    |    No   |  No   | dim_geographies (geography_pk)   |
 |  number_issues     |  Calculated metric, number of issues (aggregated value)           |  INT    |    No   |   No   |
 |  is_timely_response| Calculated metric, number of responses in timely (aggregated value). Whether the company gave a timely response. For example, “Yes” or “No.”            |  INT    |    No   |   No   |
 
